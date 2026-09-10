@@ -1,0 +1,779 @@
+{
+  "route": {
+    "id": 19280403,
+    "name": "Boscastle Harbour walk, North Cornwall",
+    "distanceKm": 0.8,
+    "difficulty": null,
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -4.6918137,
+            50.6898845
+          ],
+          [
+            -4.6918575,
+            50.6897248
+          ]
+        ],
+        [
+          [
+            -4.6926388,
+            50.6898538
+          ],
+          [
+            -4.6918137,
+            50.6898845
+          ]
+        ],
+        [
+          [
+            -4.6928377,
+            50.6898091
+          ],
+          [
+            -4.6926388,
+            50.6898538
+          ]
+        ],
+        [
+          [
+            -4.6927771,
+            50.6898316
+          ],
+          [
+            -4.6941371,
+            50.6903826
+          ],
+          [
+            -4.6951509,
+            50.6905489
+          ]
+        ],
+        [
+          [
+            -4.6951509,
+            50.6905489
+          ],
+          [
+            -4.6951613,
+            50.6905281
+          ]
+        ],
+        [
+          [
+            -4.6952562,
+            50.6904098
+          ],
+          [
+            -4.6951613,
+            50.6905281
+          ]
+        ],
+        [
+          [
+            -4.6952738,
+            50.6903923
+          ],
+          [
+            -4.6952562,
+            50.6904098
+          ]
+        ],
+        [
+          [
+            -4.6952738,
+            50.6903923
+          ],
+          [
+            -4.6955631,
+            50.6905005
+          ]
+        ],
+        [
+          [
+            -4.6955631,
+            50.6905005
+          ],
+          [
+            -4.6978724,
+            50.6912634
+          ]
+        ],
+        [
+          [
+            -4.6978724,
+            50.6912634
+          ],
+          [
+            -4.6982669,
+            50.6914559
+          ]
+        ],
+        [
+          [
+            -4.6982669,
+            50.6914559
+          ],
+          [
+            -4.6986046,
+            50.6917077
+          ]
+        ],
+        [
+          [
+            -4.6986046,
+            50.6917077
+          ],
+          [
+            -4.6986484,
+            50.6917289
+          ]
+        ],
+        [
+          [
+            -4.6986484,
+            50.6917289
+          ],
+          [
+            -4.6987449,
+            50.6917755
+          ]
+        ],
+        [
+          [
+            -4.6987449,
+            50.6917755
+          ],
+          [
+            -4.6989504,
+            50.6917304
+          ]
+        ],
+        [
+          [
+            -4.6930668,
+            50.6896774
+          ],
+          [
+            -4.6938858,
+            50.6901206
+          ],
+          [
+            -4.6952738,
+            50.6903923
+          ]
+        ],
+        [
+          [
+            -4.6930668,
+            50.6896774
+          ],
+          [
+            -4.6929772,
+            50.689729
+          ]
+        ],
+        [
+          [
+            -4.6929772,
+            50.689729
+          ],
+          [
+            -4.6928377,
+            50.6898091
+          ]
+        ]
+      ]
+    }
+  },
+  "pois": {
+    "toilets": [
+      {
+        "name": null,
+        "lat": 50.6898241,
+        "lng": -4.6913944,
+        "category": "toilets",
+        "tags": {
+          "access": "yes",
+          "amenity": "toilets",
+          "charge": "0.20 GBP",
+          "check_date": "2025-08-13",
+          "fee": "yes",
+          "payment:coins": "yes",
+          "payment:contactless": "yes",
+          "payment:google_pay": "yes",
+          "toilets:disposal": "flush",
+          "toilets:handwashing": "yes",
+          "toilets:position": "seated",
+          "unisex": "yes",
+          "wheelchair": "yes"
+        },
+        "relatedPost": null
+      }
+    ],
+    "benches": [
+      {
+        "name": null,
+        "lat": 50.6899286,
+        "lng": -4.7009422,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-09-10"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6896181,
+        "lng": -4.691434,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-09-10"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6896281,
+        "lng": -4.6913825,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-09-10"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6895403,
+        "lng": -4.693228,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-09-10"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.69189,
+        "lng": -4.6972825,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-09-10"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6908138,
+        "lng": -4.6997392,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-09-10"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6896227,
+        "lng": -4.6913085,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-09-10"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6913651,
+        "lng": -4.6992832,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "survey:date": "2022-09-10"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6923571,
+        "lng": -4.6980144,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-09-10"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6896197,
+        "lng": -4.6914588,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "survey:date": "2022-09-10"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6903113,
+        "lng": -4.6950476,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "armrest": "yes",
+          "backrest": "yes"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6902848,
+        "lng": -4.6949386,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "armrest": "yes",
+          "backrest": "yes",
+          "material": "wood"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6908921,
+        "lng": -4.6950875,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "armrest": "no",
+          "backrest": "yes",
+          "material": "wood"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6906213,
+        "lng": -4.6931783,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "armrest": "yes",
+          "backrest": "no",
+          "material": "wood"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6902601,
+        "lng": -4.6910749,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "armrest": "no",
+          "backrest": "no",
+          "material": "wood"
+        },
+        "relatedPost": null
+      }
+    ],
+    "water_points": [],
+    "pubs": [
+      {
+        "name": "Wellington Hotel",
+        "lat": 50.6892186,
+        "lng": -4.6929392,
+        "category": "pubs",
+        "tags": {
+          "amenity": "pub",
+          "name": "Wellington Hotel",
+          "website": "https://wellingtonhotelboscastle.com/"
+        },
+        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-wellington-hotel/"
+      },
+      {
+        "name": "The Cobweb Inn",
+        "lat": 50.6900535,
+        "lng": -4.6911864,
+        "category": "pubs",
+        "tags": {
+          "amenity": "pub",
+          "name": "The Cobweb Inn"
+        },
+        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-cobweb-inn/"
+      }
+    ],
+    "cafes": [
+      {
+        "name": "The Pilchard Cellar Café (NT)",
+        "lat": 50.6905226,
+        "lng": -4.6948438,
+        "category": "cafes",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2025-08-13",
+          "name": "The Pilchard Cellar Café (NT)",
+          "opening_hours": "10:00-16:00",
+          "operator": "National Trust"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "Toby Jug Cafe",
+        "lat": 50.6897212,
+        "lng": -4.6921246,
+        "category": "cafes",
+        "tags": {
+          "amenity": "cafe",
+          "name": "Toby Jug Cafe"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "The Wellington",
+        "lat": 50.6892633,
+        "lng": -4.6929849,
+        "category": "cafes",
+        "tags": {
+          "amenity": "restaurant",
+          "name": "The Wellington"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "The Bridge House Hotel",
+        "lat": 50.6899687,
+        "lng": -4.6924468,
+        "category": "cafes",
+        "tags": {
+          "amenity": "restaurant",
+          "name": "The Bridge House Hotel"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "The Riverside Guest House",
+        "lat": 50.6897651,
+        "lng": -4.6926651,
+        "category": "cafes",
+        "tags": {
+          "amenity": "restaurant",
+          "name": "The Riverside Guest House",
+          "website": "https://riversideboscastle.co.uk/"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "The Rocket Store",
+        "lat": 50.690261,
+        "lng": -4.6935193,
+        "category": "cafes",
+        "tags": {
+          "amenity": "cafe",
+          "indoor_seating": "yes",
+          "name": "The Rocket Store"
+        },
+        "relatedPost": "https://bestincornwall.co.uk/staging/listing/rocket-store/"
+      },
+      {
+        "name": "Rocket Stores",
+        "lat": 50.6901821,
+        "lng": -4.6945631,
+        "category": "cafes",
+        "tags": {
+          "amenity": "cafe",
+          "building": "government",
+          "name": "Rocket Stores",
+          "source": "bing"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "The Harbour Light",
+        "lat": 50.6906712,
+        "lng": -4.6954194,
+        "category": "cafes",
+        "tags": {
+          "addr:housename": "Tides Reach",
+          "addr:place": "Boscastle",
+          "amenity": "cafe",
+          "building": "retail",
+          "name": "The Harbour Light",
+          "outdoor_seating": "yes"
+        },
+        "relatedPost": null
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Museum of Witchcraft and Magic",
+        "lat": 50.6905948,
+        "lng": -4.6949915,
+        "category": "attractions",
+        "tags": {
+          "addr:postcode": "PL35 0HD",
+          "fee": "yes",
+          "name": "Museum of Witchcraft and Magic",
+          "name:kw": "Gwithti a Wraghweyth ha Pystri",
+          "opening_hours": "2026 Apr 03-2026 Oct 31 Mo-Su 10:00-17:30; 2026 Jun 15-2026 Jun 21 closed \"Closed for the week\" || 2026 closed; unknown",
+          "tourism": "museum",
+          "website": "https://museumofwitchcraftandmagic.co.uk",
+          "wikidata": "Q1402017",
+          "wikipedia": "en:Museum of Witchcraft and Magic"
+        },
+        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-museum-of-witchcraft-and-magic/"
+      },
+      {
+        "name": "Artists Chair",
+        "lat": 50.6890611,
+        "lng": -4.6919428,
+        "category": "attractions",
+        "tags": {
+          "name": "Artists Chair",
+          "tourism": "viewpoint"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6927819,
+        "lng": -4.7006226,
+        "category": "attractions",
+        "tags": {
+          "tourism": "viewpoint"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6907261,
+        "lng": -4.695859,
+        "category": "attractions",
+        "tags": {
+          "description": "Tidal Footpath",
+          "foot": "yes",
+          "highway": "service",
+          "leisure": "slipway",
+          "service": "slipway",
+          "tidal": "yes"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "The Riverside",
+        "lat": 50.6895568,
+        "lng": -4.6923131,
+        "category": "attractions",
+        "tags": {
+          "leisure": "outdoor_seating",
+          "lit": "yes",
+          "name": "The Riverside",
+          "operator": "The Riverside"
+        },
+        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-riverside/"
+      },
+      {
+        "name": null,
+        "lat": 50.6901473,
+        "lng": -4.6932576,
+        "category": "attractions",
+        "tags": {
+          "access": "private",
+          "garden:style": "flower_garden",
+          "garden:type": "community",
+          "leisure": "garden"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6906511,
+        "lng": -4.6953485,
+        "category": "attractions",
+        "tags": {
+          "access": "customers",
+          "leisure": "outdoor_seating",
+          "weather_protection": "parasol"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": null,
+        "lat": 50.6898101,
+        "lng": -4.6921039,
+        "category": "attractions",
+        "tags": {
+          "leisure": "outdoor_seating"
+        },
+        "relatedPost": null
+      }
+    ],
+    "shops": [
+      {
+        "name": "Mini Book Shop",
+        "lat": 50.6895582,
+        "lng": -4.6930909,
+        "category": "shops",
+        "tags": {
+          "booth": "K6",
+          "covered": "booth",
+          "disused:amenity": "telephone",
+          "listed_status": "Grade II",
+          "man_made": "telephone_box",
+          "name": "Mini Book Shop",
+          "old_phone": "+44 1840 250272",
+          "operator": "Boscastle WI",
+          "shop": "books",
+          "survey:date": "2022-09-10"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "National Trust",
+        "lat": 50.6904847,
+        "lng": -4.6946294,
+        "category": "shops",
+        "tags": {
+          "name": "National Trust",
+          "operator": "National Trust",
+          "shop": "gift"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "Sea to Shore",
+        "lat": 50.689734,
+        "lng": -4.6922046,
+        "category": "shops",
+        "tags": {
+          "check_date": "2025-07-07",
+          "name": "Sea to Shore",
+          "shop": "art"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "Boscastle Bakery",
+        "lat": 50.6897447,
+        "lng": -4.6922784,
+        "category": "shops",
+        "tags": {
+          "name": "Boscastle Bakery",
+          "shop": "bakery"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "The Otherworld",
+        "lat": 50.6896353,
+        "lng": -4.6929017,
+        "category": "shops",
+        "tags": {
+          "name": "The Otherworld",
+          "shop": "gift"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "Nisa Local",
+        "lat": 50.6899772,
+        "lng": -4.6907296,
+        "category": "shops",
+        "tags": {
+          "brand": "Nisa Local",
+          "brand:wikidata": "Q16999069",
+          "name": "Nisa Local",
+          "shop": "convenience",
+          "website": "https://www.nisalocally.co.uk/stores/cornwall/boscastle/1-penally-hill"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "Enchanted",
+        "lat": 50.6897544,
+        "lng": -4.6923474,
+        "category": "shops",
+        "tags": {
+          "name": "Enchanted",
+          "shop": "gift"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "Boscastle Rocks",
+        "lat": 50.6899569,
+        "lng": -4.6926556,
+        "category": "shops",
+        "tags": {
+          "name": "Boscastle Rocks",
+          "shop": "gift"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "Things",
+        "lat": 50.6902418,
+        "lng": -4.6936317,
+        "category": "shops",
+        "tags": {
+          "name": "Things",
+          "shop": "gift"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "Cornish Stores",
+        "lat": 50.6897153,
+        "lng": -4.6919935,
+        "category": "shops",
+        "tags": {
+          "addr:housenumber": "7",
+          "addr:street": "Penally Hill",
+          "building": "retail",
+          "name": "Cornish Stores",
+          "shop": "greengrocer",
+          "source": "bing"
+        },
+        "relatedPost": null
+      },
+      {
+        "name": "Second Hand bookshop",
+        "lat": 50.6904473,
+        "lng": -4.6940774,
+        "category": "shops",
+        "tags": {
+          "check_date": "2025-08-13",
+          "name": "Second Hand bookshop",
+          "operator": "National Trust",
+          "second_hand": "only",
+          "shop": "books"
+        },
+        "relatedPost": null
+      }
+    ]
+  },
+  "attribution": "© OpenStreetMap contributors",
+  "generatedAt": "2026-09-10T21:16:37.382Z"
+}
