@@ -1,0 +1,1142 @@
+{
+  "route": {
+    "id": 19788537,
+    "name": "Chapel Cliff walk, Lansallos",
+    "distanceKm": 1.3,
+    "difficulty": null,
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -4.5171136,
+            50.3299359
+          ],
+          [
+            -4.516667,
+            50.3301074
+          ]
+        ],
+        [
+          [
+            -4.5200028,
+            50.3287487
+          ],
+          [
+            -4.5174964,
+            50.3293992
+          ],
+          [
+            -4.5171136,
+            50.3299359
+          ]
+        ],
+        [
+          [
+            -4.5213362,
+            50.3287192
+          ],
+          [
+            -4.5200028,
+            50.3287487
+          ]
+        ],
+        [
+          [
+            -4.5248834,
+            50.3282007
+          ],
+          [
+            -4.5230409,
+            50.3278962
+          ],
+          [
+            -4.5213362,
+            50.3287192
+          ]
+        ],
+        [
+          [
+            -4.525056,
+            50.3281889
+          ],
+          [
+            -4.5248834,
+            50.3282007
+          ]
+        ],
+        [
+          [
+            -4.525056,
+            50.3281889
+          ],
+          [
+            -4.525317,
+            50.3282463
+          ]
+        ],
+        [
+          [
+            -4.525317,
+            50.3282463
+          ],
+          [
+            -4.5247,
+            50.328505
+          ]
+        ],
+        [
+          [
+            -4.5247,
+            50.328505
+          ],
+          [
+            -4.5231317,
+            50.3283927
+          ],
+          [
+            -4.5213362,
+            50.3287192
+          ]
+        ],
+        [
+          [
+            -4.5200028,
+            50.3287487
+          ],
+          [
+            -4.5187451,
+            50.3293745
+          ],
+          [
+            -4.5176366,
+            50.3296379
+          ],
+          [
+            -4.5171136,
+            50.3299359
+          ]
+        ]
+      ]
+    }
+  },
+  "pois": {
+    "toilets": [
+      {
+        "name": null,
+        "lat": 50.3310016,
+        "lng": -4.5172776,
+        "category": "toilets",
+        "tags": {
+          "amenity": "toilets",
+          "check_date": "2026-07-02",
+          "check_date:wheelchair": "2026-07-02",
+          "fee": "yes",
+          "wheelchair": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "benches": [
+      {
+        "name": null,
+        "lat": 50.3300869,
+        "lng": -4.5153826,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3299067,
+        "lng": -4.5164257,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "material": "wood"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3301066,
+        "lng": -4.5169913,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3309625,
+        "lng": -4.5140518,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "check_date": "2025-11-08",
+          "material": "wood"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3309599,
+        "lng": -4.5139907,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "check_date": "2025-11-08",
+          "material": "wood"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3309496,
+        "lng": -4.5139312,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "check_date": "2025-11-08",
+          "material": "wood"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3309657,
+        "lng": -4.5141293,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "check_date": "2025-11-08",
+          "material": "wood"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3309715,
+        "lng": -4.5141965,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "check_date": "2025-11-08",
+          "material": "wood"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3300637,
+        "lng": -4.5165668,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3300389,
+        "lng": -4.5165538,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3298547,
+        "lng": -4.5172495,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3292169,
+        "lng": -4.519011,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "stone"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3289492,
+        "lng": -4.5194682,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.329292,
+        "lng": -4.522697,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3315367,
+        "lng": -4.5166553,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3315631,
+        "lng": -4.5167148,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3310289,
+        "lng": -4.5144747,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3310862,
+        "lng": -4.5146969,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3310569,
+        "lng": -4.5145817,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3311043,
+        "lng": -4.5175204,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3276721,
+        "lng": -4.5268156,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3309471,
+        "lng": -4.515416,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2021-12-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3309741,
+        "lng": -4.5153959,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2021-12-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3311093,
+        "lng": -4.5175489,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2021-12-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3310663,
+        "lng": -4.5154287,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2021-12-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3308809,
+        "lng": -4.5168644,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2021-12-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3306818,
+        "lng": -4.5168161,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2021-12-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3307154,
+        "lng": -4.5168092,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2021-12-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3309266,
+        "lng": -4.5154295,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2021-12-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3310974,
+        "lng": -4.5154011,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2021-12-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3312223,
+        "lng": -4.5181602,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2021-12-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3312123,
+        "lng": -4.5182086,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2021-12-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3294016,
+        "lng": -4.5175703,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2021-12-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3309985,
+        "lng": -4.5153836,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2021-12-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3311041,
+        "lng": -4.5174814,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2021-12-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "pubs": [
+      {
+        "name": "The Blue Peter Inn",
+        "lat": 50.3309776,
+        "lng": -4.5171591,
+        "category": "pubs",
+        "tags": {
+          "air_conditioning": "no",
+          "amenity": "pub",
+          "indoor_seating": "yes",
+          "name": "The Blue Peter Inn",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "outdoor_seating": "pedestrian_zone",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "phone": "+44 1503 272743",
+          "smoking": "outside",
+          "website": "https://thebluepeterinn.yolasite.com/",
+          "wheelchair": "no",
+          "wikidata": "Q26433547"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Three Pilchards",
+        "lat": 50.3310542,
+        "lng": -4.5179451,
+        "category": "pubs",
+        "tags": {
+          "amenity": "pub",
+          "contact:facebook": "https://www.facebook.com/thethreepilchards/",
+          "cuisine": "fish_and_chips",
+          "name": "The Three Pilchards",
+          "phone": "+44 1503 272233",
+          "website": "https://www.threepilchardspolperro.co.uk/",
+          "wikidata": "Q26596883"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Noughts & Crosses",
+        "lat": 50.3311766,
+        "lng": -4.5191779,
+        "category": "pubs",
+        "tags": {
+          "amenity": "pub",
+          "name": "Noughts & Crosses",
+          "wikidata": "Q26454011"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "cafes": [
+      {
+        "name": "The House on the Props",
+        "lat": 50.3314443,
+        "lng": -4.5185017,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Polperro",
+          "addr:postcode": "PL13 2RE",
+          "addr:street": "Talland Street",
+          "amenity": "restaurant",
+          "name": "The House on the Props",
+          "phone": "+44 1503 272310",
+          "website": "https://www.houseontheprops.co.uk/",
+          "wikidata": "Q26596711"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Nelsons Restaurant",
+        "lat": 50.331271,
+        "lng": -4.5194349,
+        "category": "cafes",
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "seafood",
+          "name": "Nelsons Restaurant"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Wheelhouse",
+        "lat": 50.3310793,
+        "lng": -4.5181395,
+        "category": "cafes",
+        "tags": {
+          "amenity": "restaurant",
+          "check_date:opening_hours": "2024-08-25",
+          "indoor_seating": "yes",
+          "name": "The Wheelhouse",
+          "opening_hours:signed": "no",
+          "outdoor_seating": "no",
+          "wheelchair": "no",
+          "wikidata": "Q26433538"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Turntable",
+        "lat": 50.3313445,
+        "lng": -4.5195959,
+        "category": "cafes",
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "pizza",
+          "name": "Turntable",
+          "opening_hours": "Mo-Su 17:00-21:30"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Couch's Restaurant",
+        "lat": 50.3310642,
+        "lng": -4.5195992,
+        "category": "cafes",
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Couch's Restaurant"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Clements & Hope",
+        "lat": 50.3314055,
+        "lng": -4.520223,
+        "category": "cafes",
+        "tags": {
+          "amenity": "cafe",
+          "name": "Clements & Hope"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Priscillas",
+        "lat": 50.3314595,
+        "lng": -4.5192633,
+        "category": "cafes",
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Priscillas"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Museum Tea Room",
+        "lat": 50.3316009,
+        "lng": -4.5166734,
+        "category": "cafes",
+        "tags": {
+          "amenity": "cafe",
+          "building": "yes",
+          "name": "Museum Tea Room"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "attractions": [
+      {
+        "name": null,
+        "lat": 50.3312829,
+        "lng": -4.5166679,
+        "category": "attractions",
+        "tags": {
+          "harbour": "yes",
+          "leisure": "marina",
+          "seamark:harbour:category": "marina;fishing",
+          "seamark:type": "harbour"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Polperro Heritage Museum of Smuggling & Fishing",
+        "lat": 50.3315032,
+        "lng": -4.5165199,
+        "category": "attractions",
+        "tags": {
+          "addr:city": "Polperro",
+          "addr:housename": "Harbour Studio",
+          "addr:street": "The Warren",
+          "fee": "yes",
+          "name": "Polperro Heritage Museum of Smuggling & Fishing",
+          "opening_hours": "Mar-Oct Mo-Su 10:30-16:30",
+          "phone": "+44 1503 272423",
+          "tourism": "museum",
+          "website": "http://www.polperro.org/museum.html",
+          "wikidata": "Q113363955"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3301193,
+        "lng": -4.5167793,
+        "category": "attractions",
+        "tags": {
+          "amenity": "shelter",
+          "shelter_type": "weather_shelter",
+          "tourism": "viewpoint"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3307006,
+        "lng": -4.5168047,
+        "category": "attractions",
+        "tags": {
+          "tourism": "viewpoint"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3303555,
+        "lng": -4.517108,
+        "category": "attractions",
+        "tags": {
+          "leisure": "garden"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "shops": [
+      {
+        "name": "Polperro Bakery",
+        "lat": 50.3314035,
+        "lng": -4.5197887,
+        "category": "shops",
+        "tags": {
+          "name": "Polperro Bakery",
+          "opening_hours": "Mo-Su 08:30-16:30, Su 09:30-16:00",
+          "shop": "bakery"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Joan the Wad Shop",
+        "lat": 50.3311003,
+        "lng": -4.5189675,
+        "category": "shops",
+        "tags": {
+          "name": "Joan the Wad Shop",
+          "shop": "gift"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Taste Buds",
+        "lat": 50.3310918,
+        "lng": -4.519076,
+        "category": "shops",
+        "tags": {
+          "name": "Taste Buds",
+          "shop": "bakery"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Tiswithet",
+        "lat": 50.331122,
+        "lng": -4.5188653,
+        "category": "shops",
+        "tags": {
+          "name": "Tiswithet",
+          "shop": "gift"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Pedyr's Bake House",
+        "lat": 50.331542,
+        "lng": -4.5194137,
+        "category": "shops",
+        "tags": {
+          "name": "Pedyr's Bake House",
+          "opening_hours": "Fr-Tu,PH 08:00+",
+          "phone": "+441503272744",
+          "shop": "bakery",
+          "website": "www.pedyrs.co.uk"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Tussie Mussie",
+        "lat": 50.3314595,
+        "lng": -4.5194657,
+        "category": "shops",
+        "tags": {
+          "name": "Tussie Mussie",
+          "shop": "gift"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Seahorse",
+        "lat": 50.3311449,
+        "lng": -4.5184188,
+        "category": "shops",
+        "tags": {
+          "check_date:opening_hours": "2024-08-25",
+          "name": "Seahorse",
+          "opening_hours:signed": "no",
+          "shop": "gift"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Village Yokel",
+        "lat": 50.3315039,
+        "lng": -4.5198388,
+        "category": "shops",
+        "tags": {
+          "check_date:opening_hours": "2024-08-25",
+          "name": "Village Yokel",
+          "opening_hours:signed": "no",
+          "shop": "gift"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Mythical Moon",
+        "lat": 50.3315472,
+        "lng": -4.5192954,
+        "category": "shops",
+        "tags": {
+          "check_date:opening_hours": "2024-08-25",
+          "name": "Mythical Moon",
+          "opening_hours:signed": "no",
+          "shop": "gift"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "John Yaxley's Food Store",
+        "lat": 50.331528,
+        "lng": -4.5196886,
+        "category": "shops",
+        "tags": {
+          "name": "John Yaxley's Food Store",
+          "opening_hours": "Mo-Sa 09:00-17:00",
+          "shop": "convenience"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Roly's Fudge",
+        "lat": 50.3314184,
+        "lng": -4.5198703,
+        "category": "shops",
+        "tags": {
+          "check_date:opening_hours": "2024-08-25",
+          "name": "Roly's Fudge",
+          "opening_hours": "Mo-Su 10:00-17:00",
+          "opening_hours:signed": "no",
+          "shop": "confectionery"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Cornish Chilli Factory",
+        "lat": 50.3310065,
+        "lng": -4.5194337,
+        "category": "shops",
+        "tags": {
+          "name": "The Cornish Chilli Factory",
+          "opening_hours": "Mo-Su 11:00-16:00",
+          "shop": "deli"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "Moorings",
+        "lat": 50.3310388,
+        "lng": -4.5170792,
+        "category": "stay",
+        "tags": {
+          "name": "Moorings",
+          "tourism": "apartment"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Pierinn House",
+        "lat": 50.3310206,
+        "lng": -4.5169649,
+        "category": "stay",
+        "tags": {
+          "name": "Pierinn House",
+          "tourism": "apartment"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Pierinn Studio",
+        "lat": 50.3309924,
+        "lng": -4.5170265,
+        "category": "stay",
+        "tags": {
+          "name": "Pierinn Studio",
+          "tourism": "apartment"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Mariners",
+        "lat": 50.3311069,
+        "lng": -4.5170758,
+        "category": "stay",
+        "tags": {
+          "name": "Mariners",
+          "tourism": "apartment"
+        },
+        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-mariners/",
+        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2025/09/Mariners-2.jpg"
+      },
+      {
+        "name": "Haven Cottage",
+        "lat": 50.3310674,
+        "lng": -4.5170204,
+        "category": "stay",
+        "tags": {
+          "name": "Haven Cottage",
+          "tourism": "apartment"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Harbourside",
+        "lat": 50.3311071,
+        "lng": -4.517256,
+        "category": "stay",
+        "tags": {
+          "name": "Harbourside",
+          "tourism": "apartment"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Little Laney",
+        "lat": 50.3310769,
+        "lng": -4.5191548,
+        "category": "stay",
+        "tags": {
+          "name": "Little Laney",
+          "tourism": "apartment"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Miss Martha's Cottage",
+        "lat": 50.3313979,
+        "lng": -4.5196772,
+        "category": "stay",
+        "tags": {
+          "name": "Miss Martha's Cottage",
+          "tourism": "apartment"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Wesley House",
+        "lat": 50.3313488,
+        "lng": -4.5196705,
+        "category": "stay",
+        "tags": {
+          "name": "Wesley House",
+          "tourism": "apartment"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Coach House",
+        "lat": 50.3309817,
+        "lng": -4.5195237,
+        "category": "stay",
+        "tags": {
+          "name": "The Coach House",
+          "tourism": "apartment"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Crabbers Rest",
+        "lat": 50.3312653,
+        "lng": -4.518618,
+        "category": "stay",
+        "tags": {
+          "name": "Crabbers Rest",
+          "tourism": "apartment"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Corner Cottage",
+        "lat": 50.3311047,
+        "lng": -4.5183703,
+        "category": "stay",
+        "tags": {
+          "check_date": "2024-08-25",
+          "name": "Corner Cottage",
+          "tourism": "apartment"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Pol Haven",
+        "lat": 50.3311946,
+        "lng": -4.5190787,
+        "category": "stay",
+        "tags": {
+          "name": "Pol Haven",
+          "tourism": "apartment"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ]
+  },
+  "attribution": "© OpenStreetMap contributors",
+  "generatedAt": "2026-09-11T11:18:18.492Z"
+}
