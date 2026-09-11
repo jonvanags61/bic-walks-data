@@ -1023,8 +1023,8 @@
           "name": "Mariners",
           "tourism": "apartment"
         },
-        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-mariners/",
-        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2025/09/Mariners-2.jpg"
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "Haven Cottage",
@@ -1138,5 +1138,5 @@
     ]
   },
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-11T11:18:18.492Z"
+  "generatedAt": "2026-09-11T21:02:30.390Z"
 }
