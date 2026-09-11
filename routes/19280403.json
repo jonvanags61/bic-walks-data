@@ -817,8 +817,56 @@
         "relatedPost": null,
         "relatedPostImage": null
       }
+    ],
+    "stay": [
+      {
+        "name": "Riverside Hotel and Restaurant",
+        "lat": 50.6897775,
+        "lng": -4.6927238,
+        "category": "stay",
+        "tags": {
+          "name": "Riverside Hotel and Restaurant",
+          "tourism": "hotel"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "YHA Boscastle",
+        "lat": 50.6907262,
+        "lng": -4.6956376,
+        "category": "stay",
+        "tags": {
+          "addr:housename": "Palace Stables",
+          "addr:postcode": "PL35 0HD",
+          "brand": "Youth Hostels Association",
+          "brand:short": "YHA",
+          "brand:wikidata": "Q8059214",
+          "contact:website": "https://www.yha.org.uk/hostel/yha-boscastle",
+          "guest_house": "hostel",
+          "name": "YHA Boscastle",
+          "operator": "YHA England & Wales",
+          "tourism": "hostel"
+        },
+        "relatedPost": "https://bestincornwall.co.uk/staging/listing/yha-boscastle/",
+        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2026/02/YHA.jpg"
+      },
+      {
+        "name": null,
+        "lat": 50.6913583,
+        "lng": -4.6963297,
+        "category": "stay",
+        "tags": {
+          "building": "residential",
+          "building:levels": "2",
+          "source": "Bing",
+          "tourism": "hostel"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
     ]
   },
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-11T10:33:36.381Z"
+  "generatedAt": "2026-09-11T10:47:26.376Z"
 }
