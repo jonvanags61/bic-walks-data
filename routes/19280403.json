@@ -210,7 +210,8 @@
           "unisex": "yes",
           "wheelchair": "yes"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       }
     ],
     "benches": [
@@ -224,7 +225,8 @@
           "backrest": "yes",
           "survey:date": "2022-09-10"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -236,7 +238,8 @@
           "backrest": "yes",
           "survey:date": "2022-09-10"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -248,7 +251,8 @@
           "backrest": "yes",
           "survey:date": "2022-09-10"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -260,7 +264,8 @@
           "backrest": "yes",
           "survey:date": "2022-09-10"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -272,7 +277,8 @@
           "backrest": "yes",
           "survey:date": "2022-09-10"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -284,7 +290,8 @@
           "backrest": "yes",
           "survey:date": "2022-09-10"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -296,7 +303,8 @@
           "backrest": "yes",
           "survey:date": "2022-09-10"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -308,7 +316,8 @@
           "backrest": "no",
           "survey:date": "2022-09-10"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -320,7 +329,8 @@
           "backrest": "yes",
           "survey:date": "2022-09-10"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -332,7 +342,8 @@
           "backrest": "no",
           "survey:date": "2022-09-10"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -344,7 +355,8 @@
           "armrest": "yes",
           "backrest": "yes"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -357,7 +369,8 @@
           "backrest": "yes",
           "material": "wood"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -370,7 +383,8 @@
           "backrest": "yes",
           "material": "wood"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -383,7 +397,8 @@
           "backrest": "no",
           "material": "wood"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -396,7 +411,8 @@
           "backrest": "no",
           "material": "wood"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       }
     ],
     "water_points": [],
@@ -411,7 +427,8 @@
           "name": "Wellington Hotel",
           "website": "https://wellingtonhotelboscastle.com/"
         },
-        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-wellington-hotel/"
+        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-wellington-hotel/",
+        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2025/10/Wellington-10.jpg"
       },
       {
         "name": "The Cobweb Inn",
@@ -422,7 +439,8 @@
           "amenity": "pub",
           "name": "The Cobweb Inn"
         },
-        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-cobweb-inn/"
+        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-cobweb-inn/",
+        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2026/02/Boscastle-Cobweb.jpg"
       }
     ],
     "cafes": [
@@ -438,7 +456,8 @@
           "opening_hours": "10:00-16:00",
           "operator": "National Trust"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "Toby Jug Cafe",
@@ -449,7 +468,8 @@
           "amenity": "cafe",
           "name": "Toby Jug Cafe"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "The Wellington",
@@ -460,7 +480,8 @@
           "amenity": "restaurant",
           "name": "The Wellington"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "The Bridge House Hotel",
@@ -471,7 +492,8 @@
           "amenity": "restaurant",
           "name": "The Bridge House Hotel"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "The Riverside Guest House",
@@ -483,7 +505,8 @@
           "name": "The Riverside Guest House",
           "website": "https://riversideboscastle.co.uk/"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "The Rocket Store",
@@ -495,7 +518,8 @@
           "indoor_seating": "yes",
           "name": "The Rocket Store"
         },
-        "relatedPost": "https://bestincornwall.co.uk/staging/listing/rocket-store/"
+        "relatedPost": "https://bestincornwall.co.uk/staging/listing/rocket-store/",
+        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2025/09/Rocket-Store.jpg"
       },
       {
         "name": "Rocket Stores",
@@ -508,7 +532,8 @@
           "name": "Rocket Stores",
           "source": "bing"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "The Harbour Light",
@@ -523,7 +548,8 @@
           "name": "The Harbour Light",
           "outdoor_seating": "yes"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       }
     ],
     "attractions": [
@@ -543,7 +569,8 @@
           "wikidata": "Q1402017",
           "wikipedia": "en:Museum of Witchcraft and Magic"
         },
-        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-museum-of-witchcraft-and-magic/"
+        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-museum-of-witchcraft-and-magic/",
+        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2025/10/Witchcraft-1.jpg"
       },
       {
         "name": "Artists Chair",
@@ -554,7 +581,8 @@
           "name": "Artists Chair",
           "tourism": "viewpoint"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -564,7 +592,8 @@
         "tags": {
           "tourism": "viewpoint"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -579,7 +608,8 @@
           "service": "slipway",
           "tidal": "yes"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "The Riverside",
@@ -592,7 +622,8 @@
           "name": "The Riverside",
           "operator": "The Riverside"
         },
-        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-riverside/"
+        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-riverside/",
+        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2026/02/The-Riverside.jpg"
       },
       {
         "name": null,
@@ -605,7 +636,8 @@
           "garden:type": "community",
           "leisure": "garden"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -617,7 +649,8 @@
           "leisure": "outdoor_seating",
           "weather_protection": "parasol"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": null,
@@ -627,7 +660,8 @@
         "tags": {
           "leisure": "outdoor_seating"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       }
     ],
     "shops": [
@@ -648,7 +682,8 @@
           "shop": "books",
           "survey:date": "2022-09-10"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "National Trust",
@@ -660,7 +695,8 @@
           "operator": "National Trust",
           "shop": "gift"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "Sea to Shore",
@@ -672,7 +708,8 @@
           "name": "Sea to Shore",
           "shop": "art"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "Boscastle Bakery",
@@ -683,7 +720,8 @@
           "name": "Boscastle Bakery",
           "shop": "bakery"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "The Otherworld",
@@ -694,7 +732,8 @@
           "name": "The Otherworld",
           "shop": "gift"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "Nisa Local",
@@ -708,7 +747,8 @@
           "shop": "convenience",
           "website": "https://www.nisalocally.co.uk/stores/cornwall/boscastle/1-penally-hill"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "Enchanted",
@@ -719,7 +759,8 @@
           "name": "Enchanted",
           "shop": "gift"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "Boscastle Rocks",
@@ -730,7 +771,8 @@
           "name": "Boscastle Rocks",
           "shop": "gift"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "Things",
@@ -741,7 +783,8 @@
           "name": "Things",
           "shop": "gift"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "Cornish Stores",
@@ -756,7 +799,8 @@
           "shop": "greengrocer",
           "source": "bing"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       },
       {
         "name": "Second Hand bookshop",
@@ -770,10 +814,11 @@
           "second_hand": "only",
           "shop": "books"
         },
-        "relatedPost": null
+        "relatedPost": null,
+        "relatedPostImage": null
       }
     ]
   },
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-10T21:16:37.382Z"
+  "generatedAt": "2026-09-11T10:33:36.381Z"
 }
