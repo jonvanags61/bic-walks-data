@@ -864,8 +864,28 @@
         "relatedPost": null,
         "relatedPostImage": null
       }
+    ],
+    "parking": [
+      {
+        "name": "The Cobweb Car Park",
+        "lat": 50.6899122,
+        "lng": -4.689887,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "yes",
+          "name": "The Cobweb Car Park",
+          "parking": "surface",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "surface": "ground"
+        },
+        "relatedPost": "https://bestincornwall.co.uk/staging/listing/cobweb-car-park/",
+        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2026/03/Cobweb-Car-Park.jpg"
+      }
     ]
   },
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-11T21:02:29.507Z"
+  "generatedAt": "2026-09-11T21:19:48.294Z"
 }
