@@ -426,8 +426,8 @@
           "name": "Wellington Hotel",
           "website": "https://wellingtonhotelboscastle.com/"
         },
-        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-wellington-hotel/",
-        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2025/10/Wellington-10.jpg"
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/the-wellington-hotel/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/10/Wellington-10.jpg"
       },
       {
         "name": "The Riverside",
@@ -440,8 +440,8 @@
           "name": "The Riverside",
           "operator": "The Riverside"
         },
-        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-riverside/",
-        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2026/02/The-Riverside.jpg"
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/the-riverside/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2026/02/The-Riverside.jpg"
       },
       {
         "name": "Riverside Hotel and Restaurant",
@@ -472,8 +472,8 @@
           "operator": "YHA England & Wales",
           "tourism": "hostel"
         },
-        "relatedPost": "https://bestincornwall.co.uk/staging/listing/yha-boscastle/",
-        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2026/02/YHA.jpg"
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/yha-boscastle/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2026/02/YHA.jpg"
       },
       {
         "name": null,
@@ -500,8 +500,8 @@
           "amenity": "pub",
           "name": "The Cobweb Inn"
         },
-        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-cobweb-inn/",
-        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2026/02/Boscastle-Cobweb.jpg"
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/the-cobweb-inn/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2026/02/Boscastle-Cobweb.jpg"
       }
     ],
     "cafes": [
@@ -579,8 +579,8 @@
           "indoor_seating": "yes",
           "name": "The Rocket Store"
         },
-        "relatedPost": "https://bestincornwall.co.uk/staging/listing/rocket-store/",
-        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2025/09/Rocket-Store.jpg"
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/rocket-store/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/Rocket-Store.jpg"
       },
       {
         "name": "Rocket Stores",
@@ -630,8 +630,8 @@
           "wikidata": "Q1402017",
           "wikipedia": "en:Museum of Witchcraft and Magic"
         },
-        "relatedPost": "https://bestincornwall.co.uk/staging/listing/the-museum-of-witchcraft-and-magic/",
-        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2025/10/Witchcraft-1.jpg"
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/the-museum-of-witchcraft-and-magic/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/10/Witchcraft-1.jpg"
       },
       {
         "name": "Artists Chair",
@@ -881,11 +881,11 @@
           "payment:credit_cards": "yes",
           "surface": "ground"
         },
-        "relatedPost": "https://bestincornwall.co.uk/staging/listing/cobweb-car-park/",
-        "relatedPostImage": "https://bestincornwall.co.uk/staging/wp-content/uploads/2026/03/Cobweb-Car-Park.jpg"
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/cobweb-car-park/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2026/03/Cobweb-Car-Park.jpg"
       }
     ]
   },
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-11T21:19:48.294Z"
+  "generatedAt": "2026-09-12T10:37:52.243Z"
 }
