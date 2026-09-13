@@ -1,0 +1,3425 @@
+{
+  "route": {
+    "id": 13631946,
+    "name": "Hall Walk",
+    "distanceKm": 6.9,
+    "difficulty": null,
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -4.6332648,
+          50.3405062
+        ],
+        [
+          -4.6317057,
+          50.3402146
+        ],
+        [
+          -4.6305499,
+          50.339698
+        ],
+        [
+          -4.6325734,
+          50.3404377
+        ],
+        [
+          -4.6337824,
+          50.3405131
+        ],
+        [
+          -4.6345265,
+          50.3402723
+        ],
+        [
+          -4.6346414,
+          50.3400961
+        ],
+        [
+          -4.634519,
+          50.3397539
+        ],
+        [
+          -4.6332646,
+          50.3397353
+        ],
+        [
+          -4.6326204,
+          50.3394188
+        ],
+        [
+          -4.6322617,
+          50.3388356
+        ],
+        [
+          -4.6324451,
+          50.3383503
+        ],
+        [
+          -4.6336944,
+          50.3367098
+        ],
+        [
+          -4.6336338,
+          50.3364489
+        ],
+        [
+          -4.6351496,
+          50.3353738
+        ],
+        [
+          -4.6350658,
+          50.3350129
+        ],
+        [
+          -4.635926,
+          50.3349544
+        ],
+        [
+          -4.6365343,
+          50.3343155
+        ],
+        [
+          -4.6383337,
+          50.3332403
+        ],
+        [
+          -4.6378931,
+          50.3330136
+        ],
+        [
+          -4.6369413,
+          50.3333559
+        ],
+        [
+          -4.6345512,
+          50.3299505
+        ],
+        [
+          -4.6347705,
+          50.3292624
+        ],
+        [
+          -4.6345289,
+          50.3289917
+        ],
+        [
+          -4.6342236,
+          50.3290309
+        ],
+        [
+          -4.634132,
+          50.3288871
+        ],
+        [
+          -4.6332724,
+          50.329198
+        ],
+        [
+          -4.633142,
+          50.3288998
+        ],
+        [
+          -4.6311636,
+          50.329666
+        ],
+        [
+          -4.6302431,
+          50.3303685
+        ],
+        [
+          -4.6302018,
+          50.3307014
+        ],
+        [
+          -4.6295881,
+          50.3311741
+        ],
+        [
+          -4.6271954,
+          50.3319937
+        ],
+        [
+          -4.6236322,
+          50.3324844
+        ],
+        [
+          -4.6224238,
+          50.3322659
+        ],
+        [
+          -4.6215264,
+          50.3325613
+        ],
+        [
+          -4.6203074,
+          50.3324515
+        ],
+        [
+          -4.619852,
+          50.3332264
+        ],
+        [
+          -4.6171295,
+          50.3334191
+        ],
+        [
+          -4.6149538,
+          50.3339557
+        ],
+        [
+          -4.6140701,
+          50.334394
+        ],
+        [
+          -4.6138971,
+          50.33474
+        ],
+        [
+          -4.6118371,
+          50.3359195
+        ],
+        [
+          -4.611081,
+          50.3369113
+        ],
+        [
+          -4.6101463,
+          50.3365681
+        ],
+        [
+          -4.6102935,
+          50.3367061
+        ],
+        [
+          -4.6104609,
+          50.3376593
+        ],
+        [
+          -4.6096993,
+          50.3380125
+        ],
+        [
+          -4.6110339,
+          50.3382747
+        ],
+        [
+          -4.6129579,
+          50.3382612
+        ],
+        [
+          -4.614598,
+          50.337859
+        ],
+        [
+          -4.6148396,
+          50.3375597
+        ],
+        [
+          -4.6152527,
+          50.3374216
+        ],
+        [
+          -4.6161352,
+          50.337354
+        ],
+        [
+          -4.6165513,
+          50.3369065
+        ],
+        [
+          -4.6181522,
+          50.3364501
+        ],
+        [
+          -4.6220595,
+          50.3370101
+        ],
+        [
+          -4.6229879,
+          50.3366656
+        ],
+        [
+          -4.624043,
+          50.3365573
+        ],
+        [
+          -4.6247015,
+          50.3361558
+        ],
+        [
+          -4.6249101,
+          50.3356472
+        ],
+        [
+          -4.6259664,
+          50.3352599
+        ],
+        [
+          -4.6283821,
+          50.3351949
+        ],
+        [
+          -4.6286437,
+          50.3355596
+        ],
+        [
+          -4.6285513,
+          50.3360669
+        ],
+        [
+          -4.6289143,
+          50.3367781
+        ],
+        [
+          -4.6286642,
+          50.3378487
+        ],
+        [
+          -4.6289356,
+          50.3383343
+        ],
+        [
+          -4.6290299,
+          50.3389686
+        ],
+        [
+          -4.6289879,
+          50.3391807
+        ],
+        [
+          -4.6281079,
+          50.3399545
+        ],
+        [
+          -4.6305499,
+          50.339698
+        ]
+      ]
+    }
+  },
+  "pois": {
+    "toilets": [
+      {
+        "name": null,
+        "lat": 50.3351384,
+        "lng": -4.6347433,
+        "category": "toilets",
+        "tags": {
+          "amenity": "toilets",
+          "fee": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3404038,
+        "lng": -4.633992,
+        "category": "toilets",
+        "tags": {
+          "amenity": "toilets",
+          "charge": "0.20 GBP",
+          "fee": "yes",
+          "payment:cash": "only",
+          "wheelchair": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "St.Saviours Hill Toilets",
+        "lat": 50.3273342,
+        "lng": -4.6352234,
+        "category": "toilets",
+        "tags": {
+          "amenity": "toilets",
+          "fee": "no",
+          "name": "St.Saviours Hill Toilets"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3403654,
+        "lng": -4.6340455,
+        "category": "toilets",
+        "tags": {
+          "amenity": "toilets",
+          "building": "commercial",
+          "fee": "yes",
+          "source": "Bing",
+          "wheelchair": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Polruan Quay Toilets",
+        "lat": 50.3293601,
+        "lng": -4.6348579,
+        "category": "toilets",
+        "tags": {
+          "amenity": "toilets",
+          "building": "yes",
+          "fee": "no",
+          "name": "Polruan Quay Toilets",
+          "wheelchair": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3397854,
+        "lng": -4.6301119,
+        "category": "toilets",
+        "tags": {
+          "access": "yes",
+          "amenity": "toilets",
+          "building": "yes",
+          "fee": "no",
+          "wheelchair": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "benches": [
+      {
+        "name": null,
+        "lat": 50.3279331,
+        "lng": -4.6311341,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "check_date": "2021-12-23",
+          "material": "wood"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.335048,
+        "lng": -4.6340806,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "Bing"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3350173,
+        "lng": -4.6340969,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "Bing"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3350763,
+        "lng": -4.6340674,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "Bing"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3331497,
+        "lng": -4.6199488,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.331991,
+        "lng": -4.6268451,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "source": "gps_surveys;photographic_survey"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3350349,
+        "lng": -4.6383222,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "colour": "brown",
+          "material": "wood",
+          "seats": "3"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3350634,
+        "lng": -4.6383166,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "colour": "brown",
+          "material": "wood",
+          "seats": "3"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3350764,
+        "lng": -4.6382776,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "colour": "brown",
+          "material": "wood",
+          "seats": "3"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3274305,
+        "lng": -4.6332695,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3272577,
+        "lng": -4.6353244,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3272629,
+        "lng": -4.6353606,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3268437,
+        "lng": -4.635437,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.326895,
+        "lng": -4.6355376,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3270508,
+        "lng": -4.6354477,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3271033,
+        "lng": -4.6355649,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3291957,
+        "lng": -4.6342037,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3291867,
+        "lng": -4.6342426,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3292616,
+        "lng": -4.6341132,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3292437,
+        "lng": -4.6341729,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3292265,
+        "lng": -4.6342332,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3292163,
+        "lng": -4.6342748,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3295906,
+        "lng": -4.6348106,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3304267,
+        "lng": -4.6301933,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3298784,
+        "lng": -4.6307257,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3296198,
+        "lng": -4.6311978,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3390199,
+        "lng": -4.6290755,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3387824,
+        "lng": -4.6289877,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "source": "survey;gps",
+          "survey:date": "2024-11-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3371231,
+        "lng": -4.6290299,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3353323,
+        "lng": -4.6284412,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3351727,
+        "lng": -4.6283815,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3396189,
+        "lng": -4.6328327,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3307925,
+        "lng": -4.6300828,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3343675,
+        "lng": -4.6140929,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "material": "wood",
+          "source": "gps_survey;photographic_survey"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3359115,
+        "lng": -4.6118279,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "material": "wood"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3272419,
+        "lng": -4.6348507,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3366135,
+        "lng": -4.6192029,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2024-11-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3295597,
+        "lng": -4.6347556,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2021-12-23"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3295092,
+        "lng": -4.6348434,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2021-12-23"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3295072,
+        "lng": -4.6347671,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2021-12-23"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.329553,
+        "lng": -4.6348348,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2021-12-23"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3288556,
+        "lng": -4.634075,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "survey:date": "2021-12-23"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.328377,
+        "lng": -4.6305271,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2021-12-23"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3314018,
+        "lng": -4.6289092,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-01-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3355588,
+        "lng": -4.628643,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "survey:date": "2022-01-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3294016,
+        "lng": -4.6318715,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-01-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3317274,
+        "lng": -4.6277364,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "survey:date": "2022-01-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3340574,
+        "lng": -4.6190287,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "survey:date": "2022-01-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3323846,
+        "lng": -4.6172022,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-01-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3340627,
+        "lng": -4.6398003,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2022-02-26"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3402445,
+        "lng": -4.6334363,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3402052,
+        "lng": -4.633447,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3401986,
+        "lng": -4.6336318,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3401898,
+        "lng": -4.6336286,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3401663,
+        "lng": -4.6336307,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3352968,
+        "lng": -4.6344037,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.335291,
+        "lng": -4.6343793,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3352842,
+        "lng": -4.6343382,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3353252,
+        "lng": -4.6342719,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3353116,
+        "lng": -4.6342772,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3352959,
+        "lng": -4.6342848,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3352488,
+        "lng": -4.6343157,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3349856,
+        "lng": -4.6341068,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3349742,
+        "lng": -4.634139,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.340247,
+        "lng": -4.633498,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3381669,
+        "lng": -4.6323528,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3353309,
+        "lng": -4.6343185,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3353523,
+        "lng": -4.6342695,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3352597,
+        "lng": -4.6343104,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3351281,
+        "lng": -4.6340703,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3402049,
+        "lng": -4.6335069,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3401378,
+        "lng": -4.6336296,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3401253,
+        "lng": -4.6336333,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.339594,
+        "lng": -4.632809,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3381553,
+        "lng": -4.6323583,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3353079,
+        "lng": -4.634327,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3352819,
+        "lng": -4.6342934,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.335272,
+        "lng": -4.6343015,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3351221,
+        "lng": -4.6340347,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3328912,
+        "lng": -4.6382793,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3328923,
+        "lng": -4.6382683,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3402596,
+        "lng": -4.6335658,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3402129,
+        "lng": -4.6336002,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3353409,
+        "lng": -4.6342626,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.332868,
+        "lng": -4.6384505,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-08-14"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3272915,
+        "lng": -4.634835,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3272459,
+        "lng": -4.6350817,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.327279,
+        "lng": -4.63481,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3359063,
+        "lng": -4.6370101,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3272565,
+        "lng": -4.6351135,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3363261,
+        "lng": -4.6383645,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2024-11-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3378728,
+        "lng": -4.6360197,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2024-11-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3395887,
+        "lng": -4.6368449,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2024-11-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3270735,
+        "lng": -4.6355055,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3381325,
+        "lng": -4.6323248,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3371946,
+        "lng": -4.6105638,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "survey:date": "2026-04-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "pubs": [
+      {
+        "name": "The Russell Inn",
+        "lat": 50.3288314,
+        "lng": -4.6344085,
+        "category": "pubs",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "2",
+          "addr:place": "Polruan",
+          "addr:postcode": "PL23 1PJ",
+          "addr:street": "West Street",
+          "amenity": "pub",
+          "check_date": "2026-07-27",
+          "check_date:opening_hours": "2026-07-27",
+          "fhrs:id": "955709",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "The Russell Inn",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "source:addr": "FHRS Open Data"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Ship",
+        "lat": 50.3350411,
+        "lng": -4.6351312,
+        "category": "pubs",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:country": "GB",
+          "addr:housename": "The Ship Inn Hotel",
+          "addr:postcode": "PL23 1AZ",
+          "addr:street": "Trafalgar Square",
+          "amenity": "pub",
+          "fhrs:id": "1620176",
+          "name": "The Ship",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "source:addr": "FHRS Open Data",
+          "wheelchair": "no",
+          "wikidata": "Q17532992"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Old Ferry Inn",
+        "lat": 50.3398308,
+        "lng": -4.6294852,
+        "category": "pubs",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housename": "Old Ferry Inn",
+          "addr:place": "Bodinnick",
+          "addr:postcode": "PL23 1LX",
+          "addr:street": "Old Road",
+          "amenity": "pub",
+          "fhrs:id": "621362",
+          "name": "Old Ferry Inn",
+          "opening_hours": "Fr-Sa 15:00-22:00; Su 12:00-22:00",
+          "opening_hours:kitchen": "Fr-Sa 17:00+; Su 12:00+",
+          "source": "bing",
+          "source:addr": "FHRS Open Data",
+          "website": "https://www.theoldferryinn.co.uk"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Safe Harbour",
+        "lat": 50.3358994,
+        "lng": -4.6375853,
+        "category": "pubs",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:country": "GB",
+          "addr:housenumber": "58",
+          "addr:postcode": "PL23 1BQ",
+          "addr:street": "Lostwithiel Street",
+          "amenity": "pub",
+          "contact:fax": "+44 845 8625601",
+          "contact:phone": "+44 1726 833379",
+          "name": "The Safe Harbour",
+          "wikidata": "Q26578652"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "King of Prussia",
+        "lat": 50.3352933,
+        "lng": -4.634643,
+        "category": "pubs",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "3",
+          "addr:postcode": "PL23 1AT",
+          "addr:street": "Town Quay",
+          "amenity": "pub",
+          "fhrs:id": "456192",
+          "indoor_seating": "yes",
+          "name": "King of Prussia",
+          "opening_hours:bar": "Mo-Sa 11:00-23:00; Su 12:00-23:00",
+          "outdoor_seating": "no",
+          "source:addr": "FHRS Open Data",
+          "tourism": "hotel",
+          "website": "https://www.thekingofprussiafowey.com",
+          "wikidata": "Q26578559"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Lugger",
+        "lat": 50.3355628,
+        "lng": -4.6349848,
+        "category": "pubs",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "5",
+          "addr:postcode": "PL23 1AH",
+          "addr:street": "Fore Street",
+          "amenity": "pub",
+          "fhrs:id": "619500",
+          "name": "The Lugger",
+          "phone": "+44 1726 833435",
+          "source:addr": "FHRS Open Data",
+          "survey:date": "2026-04-03",
+          "website": "https://www.luggerfowey.co.uk"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Royal British Legion",
+        "lat": 50.3353604,
+        "lng": -4.6344089,
+        "category": "pubs",
+        "tags": {
+          "amenity": "pub",
+          "name": "The Royal British Legion"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Galleon",
+        "lat": 50.335631,
+        "lng": -4.6347378,
+        "category": "pubs",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:country": "GB",
+          "addr:housename": "The Galleon",
+          "addr:housenumber": "12",
+          "addr:postcode": "PL23 1AQ",
+          "addr:street": "Fore Street",
+          "amenity": "pub",
+          "check_date:opening_hours": "2026-04-03",
+          "diet:gluten_free": "yes",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes",
+          "fhrs:id": "619501",
+          "indoor_seating": "yes",
+          "name": "The Galleon",
+          "opening_hours": "Su-Th 10:00-23:00; Fr 10:00-23:30; Sa 10:00-23:15",
+          "outdoor_seating": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "phone": "+44 1726 833014",
+          "source:addr": "FHRS Open Data",
+          "survey:date": "2026-04-03",
+          "website": "https://galleon-inn.co.uk",
+          "wheelchair": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Lugger Inn",
+        "lat": 50.3290406,
+        "lng": -4.6346907,
+        "category": "pubs",
+        "tags": {
+          "accommodation": "yes",
+          "addr:city": "Fowey",
+          "addr:housenumber": "5",
+          "addr:place": "Polruan",
+          "addr:postcode": "PL23 1PA",
+          "addr:street": "Fore Street",
+          "amenity": "pub",
+          "brand": "St Austell Brewery",
+          "brand:wikidata": "Q7592564",
+          "brand:wikipedia": "en:St Austell Brewery",
+          "building": "yes",
+          "check_date": "2026-07-30",
+          "check_date:opening_hours": "2026-07-30",
+          "contact:facebook": "https://www.facebook.com/TheLuggerInnFowey/",
+          "cuisine": "british",
+          "fhrs:id": "1200900",
+          "food": "yes",
+          "name": "The Lugger Inn",
+          "opening_hours": "Mo-Sa 11:30-23:00; Su 11:30-18:00",
+          "operator": "St Austell Brewery",
+          "phone": "+44 1726 870007",
+          "source:addr": "FHRS Open Data",
+          "wikidata": "Q26433133"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "cafes": [
+      {
+        "name": "Willow’s Pantry",
+        "lat": 50.3288396,
+        "lng": -4.634237,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:country": "GB",
+          "addr:housename": "Crumpets",
+          "addr:housenumber": "1",
+          "addr:place": "Polruan",
+          "addr:postcode": "PL23 1PQ",
+          "addr:street": "Fore Street",
+          "amenity": "cafe",
+          "check_date": "2026-07-27",
+          "fhrs:id": "569112",
+          "name": "Willow’s Pantry",
+          "source:addr": "FHRS Open Data"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Salt Society",
+        "lat": 50.3373013,
+        "lng": -4.63324,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:country": "GB",
+          "addr:housenumber": "19",
+          "addr:postcode": "PL23 1DB",
+          "addr:street": "North Street",
+          "amenity": "cafe",
+          "fhrs:id": "743736",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Salt Society",
+          "source:addr": "FHRS Open Data",
+          "survey:date": "2026-04-04",
+          "website": "https://www.saltsociety.co.uk",
+          "wheelchair": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Brown Sugar Café",
+        "lat": 50.3352774,
+        "lng": -4.6350645,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "2",
+          "addr:postcode": "PL23 1AR",
+          "addr:street": "South Street",
+          "air_conditioning": "yes",
+          "amenity": "cafe",
+          "changing_table": "yes",
+          "check_date": "2026-04-04",
+          "check_date:diet:gluten_free": "2026-04-04",
+          "check_date:diet:vegan": "2026-04-04",
+          "check_date:diet:vegetarian": "2025-04-13",
+          "diet:gluten_free": "yes",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes",
+          "dog": "yes",
+          "name": "Brown Sugar Café",
+          "opening_hours": "Aug-May 08:30-16:00; Jun-Jul: 08:30-17:00",
+          "outdoor_seating": "yes",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "phone": "+44 1726 833382",
+          "website": "https://www.brownsugarfowey.com",
+          "wheelchair": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Havener's",
+        "lat": 50.3350386,
+        "lng": -4.6344062,
+        "category": "cafes",
+        "tags": {
+          "amenity": "restaurant",
+          "changing_table": "no",
+          "diet:gluten_free": "yes",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes",
+          "indoor_seating": "yes",
+          "name": "Havener's",
+          "opening_hours": "Mo-Sa 09:00-22:30; Su 09:00-22:00",
+          "outdoor_seating": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "toilets:wheelchair": "no",
+          "wheelchair": "limited"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Cornish Bakery",
+        "lat": 50.3354546,
+        "lng": -4.6351062,
+        "category": "cafes",
+        "tags": {
+          "amenity": "cafe",
+          "name": "The Cornish Bakery",
+          "payment:cards": "yes",
+          "payment:cash": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "North Street Kitchen",
+        "lat": 50.3382972,
+        "lng": -4.6326075,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "55",
+          "addr:postcode": "PL23 1DB",
+          "addr:street": "North Street",
+          "air_conditioning": "no",
+          "amenity": "restaurant",
+          "cuisine": "fish",
+          "indoor_seating": "yes",
+          "name": "North Street Kitchen",
+          "opening_hours": "Tu-Su 12:00-15:00",
+          "operator": "North Street Kitchen",
+          "outdoor_seating": "parklet",
+          "payment:cards": "only",
+          "payment:cash": "no",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "phone": "+44 1726 932934",
+          "reservation": "no",
+          "smoking": "no",
+          "website": "https://www.fitzroycornwall.com",
+          "website:menu": "https://www.instagram.com/nskfowey/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The tea pot Fowey",
+        "lat": 50.3349675,
+        "lng": -4.6354897,
+        "category": "cafes",
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "British; Homemade",
+          "name": "The tea pot Fowey",
+          "opening_hours": "Tu-Sa 11:00-18:00+, Su 12:00-18:00+",
+          "survey:date": "2026-04-05",
+          "toilets": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Take Away",
+        "lat": 50.3403658,
+        "lng": -4.6339788,
+        "category": "cafes",
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "ice_cream; cake; coffee",
+          "name": "Take Away",
+          "takeaway": "only",
+          "toilets": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Sunny Spice",
+        "lat": 50.3362493,
+        "lng": -4.6340534,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "39a",
+          "addr:postcode": "PL23 1AH",
+          "addr:street": "Fore Street",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "brewery": "yes",
+          "cuisine": "indian",
+          "email": "info@sunnyspice.com",
+          "name": "Sunny Spice",
+          "opening_hours": "Tu-Su 17:00-22:00",
+          "outdoor_seating": "no",
+          "phone": "+44 1726 833594",
+          "survey:date": "2026-04-03",
+          "toilets": "yes",
+          "website": "https://sunnyspice.com/fowey-menu/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Bufala",
+        "lat": 50.3349398,
+        "lng": -4.635159,
+        "category": "cafes",
+        "tags": {
+          "amenity": "restaurant",
+          "bar": "yes",
+          "cuisine": "pizza; Italian",
+          "dog": "yes",
+          "name": "Bufala",
+          "opening_hours": "Mo-Su 12:00-21:00",
+          "outdoor_seating": "yes",
+          "survey:date": "2026-04-05",
+          "website": "https://bufalafowey.co.uk"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Red Rocket",
+        "lat": 50.3329787,
+        "lng": -4.6380062,
+        "category": "cafes",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2026-07-27",
+          "name": "The Red Rocket"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Olive Branch",
+        "lat": 50.3360054,
+        "lng": -4.6343794,
+        "category": "cafes",
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Olive Branch",
+          "opening_hours": "We 10:00-14:00; Th-Sa 10:00-16:00; Su 11:00-16:00",
+          "survey:date": "2026-04-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Samphire",
+        "lat": 50.3360284,
+        "lng": -4.6342133,
+        "category": "cafes",
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Samphire",
+          "phone": "+44 172 683 3302",
+          "survey:date": "2026-04-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Narla",
+        "lat": 50.3358265,
+        "lng": -4.634673,
+        "category": "cafes",
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Narla",
+          "survey:date": "2026-04-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Crumbs Café",
+        "lat": 50.3360843,
+        "lng": -4.6342682,
+        "category": "cafes",
+        "tags": {
+          "amenity": "cafe",
+          "name": "Crumbs Café",
+          "opening_hours": "Mo-Sa 10:00-16:00",
+          "survey:date": "2026-04-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Cornish Bakery",
+        "lat": 50.3354535,
+        "lng": -4.6351042,
+        "category": "cafes",
+        "tags": {
+          "amenity": "cafe",
+          "building": "yes",
+          "cuisine": "coffee_shop",
+          "indoor_seating": "yes",
+          "name": "The Cornish Bakery",
+          "outdoor_seating": "no",
+          "source": "Bing"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Lookout",
+        "lat": 50.3328322,
+        "lng": -4.6391535,
+        "category": "cafes",
+        "tags": {
+          "amenity": "cafe",
+          "building": "yes",
+          "name": "The Lookout"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Fowey Town Museum",
+        "lat": 50.3351278,
+        "lng": -4.6348014,
+        "category": "attractions",
+        "tags": {
+          "fee": "yes",
+          "name": "Fowey Town Museum",
+          "opening_hours": "Mo-Fr 10:30-16:30",
+          "source": "OS_OpenData_StreetView",
+          "tourism": "museum",
+          "website": "https://www.museumsincornwall.org.uk/Fowey-Museum/Cornwall-Museums/",
+          "wheelchair": "no",
+          "wikidata": "Q17532967"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Fowey Harbour",
+        "lat": 50.3327122,
+        "lng": -4.6336168,
+        "category": "attractions",
+        "tags": {
+          "harbour": "yes",
+          "leisure": "marina",
+          "name": "Fowey Harbour",
+          "phone": "+44 1726 832471",
+          "seamark:harbour:category": "marina",
+          "seamark:type": "harbour",
+          "vhf": "12",
+          "website": "https://www.foweyharbour.co.uk/",
+          "wikidata": "Q105453497"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Fowey",
+        "lat": 50.3350491,
+        "lng": -4.6382813,
+        "category": "attractions",
+        "tags": {
+          "name": "Fowey",
+          "tourism": "viewpoint"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3269729,
+        "lng": -4.6357482,
+        "category": "attractions",
+        "tags": {
+          "covered": "no",
+          "leisure": "picnic_table"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3271525,
+        "lng": -4.6357673,
+        "category": "attractions",
+        "tags": {
+          "covered": "no",
+          "leisure": "picnic_table"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3271833,
+        "lng": -4.6358746,
+        "category": "attractions",
+        "tags": {
+          "covered": "no",
+          "leisure": "picnic_table"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.336788,
+        "lng": -4.6210403,
+        "category": "attractions",
+        "tags": {
+          "tourism": "viewpoint"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3335218,
+        "lng": -4.6390138,
+        "category": "attractions",
+        "tags": {
+          "description": "Open views across Fowey Hotel gardens to river estuary, Polruan, and Pont Pill.",
+          "tourism": "viewpoint"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3334208,
+        "lng": -4.6388047,
+        "category": "attractions",
+        "tags": {
+          "description": "Wide open views across Fowey Hotel gardens to river estuary, Polruan, and Pont Pill.",
+          "tourism": "viewpoint"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3327948,
+        "lng": -4.6392991,
+        "category": "attractions",
+        "tags": {
+          "description": "Wide open views across river estuary to Polruan and out to sea.",
+          "tourism": "viewpoint"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3292037,
+        "lng": -4.6342544,
+        "category": "attractions",
+        "tags": {
+          "covered": "no",
+          "leisure": "picnic_table",
+          "survey:date": "2021-12-23"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3292349,
+        "lng": -4.6341401,
+        "category": "attractions",
+        "tags": {
+          "covered": "no",
+          "leisure": "picnic_table",
+          "survey:date": "2021-12-23"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3292203,
+        "lng": -4.6341973,
+        "category": "attractions",
+        "tags": {
+          "covered": "no",
+          "leisure": "picnic_table",
+          "survey:date": "2021-12-23"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3292466,
+        "lng": -4.6340979,
+        "category": "attractions",
+        "tags": {
+          "covered": "no",
+          "leisure": "picnic_table",
+          "survey:date": "2021-12-23"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3292365,
+        "lng": -4.63413,
+        "category": "attractions",
+        "tags": {
+          "covered": "no",
+          "leisure": "picnic_table",
+          "survey:date": "2021-12-23"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3323809,
+        "lng": -4.6275115,
+        "category": "attractions",
+        "tags": {
+          "leisure": "picnic_table",
+          "survey:date": "2022-01-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3290961,
+        "lng": -4.6345286,
+        "category": "attractions",
+        "tags": {
+          "highway": "service",
+          "leisure": "slipway",
+          "service": "slipway"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3271527,
+        "lng": -4.635051,
+        "category": "attractions",
+        "tags": {
+          "access": "yes",
+          "barrier": "fence",
+          "leisure": "playground"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3329514,
+        "lng": -4.637879,
+        "category": "attractions",
+        "tags": {
+          "highway": "service",
+          "leisure": "slipway",
+          "service": "slipway",
+          "source": "Bing"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3289417,
+        "lng": -4.6359607,
+        "category": "attractions",
+        "tags": {
+          "access": "private",
+          "leisure": "garden"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3292328,
+        "lng": -4.6379466,
+        "category": "attractions",
+        "tags": {
+          "access": "private",
+          "leisure": "garden"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3396913,
+        "lng": -4.6303591,
+        "category": "attractions",
+        "tags": {
+          "cycleway:both": "no",
+          "highway": "tertiary",
+          "lane_markings": "no",
+          "leisure": "slipway",
+          "noname": "yes",
+          "service": "slipway",
+          "sidewalk": "no",
+          "smoothness": "intermediate",
+          "surface": "concrete"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3405102,
+        "lng": -4.6334051,
+        "category": "attractions",
+        "tags": {
+          "cycleway:both": "no",
+          "foot": "yes",
+          "highway": "tertiary",
+          "lane_markings": "no",
+          "leisure": "slipway",
+          "motor_vehicle": "yes",
+          "service": "slipway",
+          "surface": "concrete",
+          "website": "https://www.ctomsandson.co.uk/bodinnick-ferry"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Fowey Hall Hotel \"Wind in the Willows\" Gardens",
+        "lat": 50.3325424,
+        "lng": -4.6396046,
+        "category": "attractions",
+        "tags": {
+          "access": "yes",
+          "leisure": "garden",
+          "name": "Fowey Hall Hotel \"Wind in the Willows\" Gardens"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3292986,
+        "lng": -4.6339926,
+        "category": "attractions",
+        "tags": {
+          "highway": "service",
+          "leisure": "slipway",
+          "service": "slipway"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Passage slip",
+        "lat": 50.3396307,
+        "lng": -4.6327173,
+        "category": "attractions",
+        "tags": {
+          "highway": "service",
+          "leisure": "slipway",
+          "name": "Passage slip",
+          "service": "slipway"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Old Tennis Court Garden",
+        "lat": 50.3332748,
+        "lng": -4.6386779,
+        "category": "attractions",
+        "tags": {
+          "access": "customers",
+          "leisure": "garden",
+          "name": "Old Tennis Court Garden"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Old Grammar School Gardens",
+        "lat": 50.3335505,
+        "lng": -4.6376305,
+        "category": "attractions",
+        "tags": {
+          "leisure": "garden",
+          "name": "Old Grammar School Gardens"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3344447,
+        "lng": -4.6352749,
+        "category": "attractions",
+        "tags": {
+          "highway": "service",
+          "leisure": "slipway",
+          "seamark:small_craft_facility:category": "slipway",
+          "seamark:type": "small_craft_facility",
+          "service": "slipway"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3403282,
+        "lng": -4.6336,
+        "category": "attractions",
+        "tags": {
+          "highway": "service",
+          "leisure": "slipway",
+          "service": "slipway"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "shops": [
+      {
+        "name": "Polruan Village Store",
+        "lat": 50.3285316,
+        "lng": -4.6339953,
+        "category": "shops",
+        "tags": {
+          "name": "Polruan Village Store",
+          "paypoint": "yes",
+          "shop": "convenience"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Bookends of Fowey",
+        "lat": 50.3353373,
+        "lng": -4.6350556,
+        "category": "shops",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housename": "Bookends of Fowey",
+          "addr:housenumber": "4",
+          "addr:postcode": "PL23 1AR",
+          "addr:street": "South Street",
+          "check_date:opening_hours": "2026-06-27",
+          "name": "Bookends of Fowey",
+          "opening_hours": "Mo-Sa 10:30-17:00",
+          "shop": "books",
+          "website": "www.bookendsoffowey.com",
+          "wheelchair": "limited"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Spar",
+        "lat": 50.3362229,
+        "lng": -4.6340804,
+        "category": "shops",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "39",
+          "addr:postcode": "PL23 1AH",
+          "addr:street": "Fore Street",
+          "brand": "Spar",
+          "brand:wikidata": "Q610492",
+          "brand:wikipedia": "en:SPAR (retailer)",
+          "name": "Spar",
+          "opening_hours": "Mo-Sa 07:00-20:00; Su 07:00-19:00",
+          "operator": "Spar",
+          "shop": "convenience",
+          "survey:date": "2026-04-03",
+          "website": "https://www.spar.co.uk/store-locator/awl27984-spar-fowey"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Crumpets Too",
+        "lat": 50.3285878,
+        "lng": -4.634032,
+        "category": "shops",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "12",
+          "addr:place": "Polruan",
+          "addr:postcode": "PL23 1PQ",
+          "addr:street": "Fore Street",
+          "fhrs:id": "569101",
+          "name": "Crumpets Too",
+          "shop": "bakery",
+          "source:addr": "FHRS Open Data"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Mountain Warehouse",
+        "lat": 50.3359286,
+        "lng": -4.6343581,
+        "category": "shops",
+        "tags": {
+          "brand": "Mountain Warehouse",
+          "brand:wikidata": "Q6925414",
+          "name": "Mountain Warehouse",
+          "shop": "outdoor",
+          "survey:date": "2026-04-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Heather Jane & Co",
+        "lat": 50.334911,
+        "lng": -4.6360147,
+        "category": "shops",
+        "tags": {
+          "name": "Heather Jane & Co",
+          "opening_hours": "Mo-Sa 10:00-17:00",
+          "shop": "gift",
+          "website": "https://www.heatherjaneandco.com"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Calm Tides",
+        "lat": 50.3349955,
+        "lng": -4.6357951,
+        "category": "shops",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "14",
+          "addr:postcode": "PL23 1BD",
+          "addr:street": "Lostwithiel Street",
+          "clothes": "vintage",
+          "name": "Calm Tides",
+          "opening_hours": "Mo-Sa 10:30-16:30; Su 10:00-16:00",
+          "shop": "gift",
+          "survey:date": "2026-04-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Webb Street Company",
+        "lat": 50.3353379,
+        "lng": -4.6350026,
+        "category": "shops",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "2",
+          "addr:postcode": "PL23 1AP",
+          "addr:street": "Webb Street",
+          "name": "The Webb Street Company",
+          "phone": "+44 1726 833838",
+          "shop": "gift",
+          "survey:date": "2026-04-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Pebble & Salt",
+        "lat": 50.3353566,
+        "lng": -4.6352229,
+        "category": "shops",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "5",
+          "addr:postcode": "PL23 1AR",
+          "addr:street": "South Street",
+          "name": "Pebble & Salt",
+          "opening_hours": "Tu-Fr 10:30-16:30; Sa 10:30-17:00",
+          "shop": "gift",
+          "survey:date": "2026-04-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Niles’s Bakery",
+        "lat": 50.3357049,
+        "lng": -4.6346379,
+        "category": "shops",
+        "tags": {
+          "check_date": "2026-04-05",
+          "check_date:diet:gluten_free": "2026-04-05",
+          "check_date:opening_hours": "2026-04-05",
+          "diet:gluten_free": "yes",
+          "indoor_seating": "no",
+          "name": "Niles’s Bakery",
+          "opening_hours": "\"Irregular opening hours based on season\"",
+          "outdoor_seating": "no",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "shop": "bakery",
+          "takeaway": "only",
+          "wheelchair": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Johns",
+        "lat": 50.3359611,
+        "lng": -4.6344291,
+        "category": "shops",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "25",
+          "addr:postcode": "PL23 1AH",
+          "addr:street": "Fore Street",
+          "alcohol": "wine;whisky;spirits",
+          "alt_name": "JOHNS - Spirits, Wine, Beer",
+          "email": "info@johnswines.co.uk",
+          "name": "Johns",
+          "opening_hours": "Mo-Fr 11:00-21:00; Sa 10:00-21:00",
+          "shop": "alcohol",
+          "survey:date": "2026-04-03",
+          "tobacco": "cigars",
+          "website": "https://www.johnswines.co.uk/fowey-store"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Earth:li",
+        "lat": 50.3352567,
+        "lng": -4.6348212,
+        "category": "shops",
+        "tags": {
+          "name": "Earth:li",
+          "opening_hours": "We-Sa 13:00-16:00",
+          "shop": "gift",
+          "survey:date": "2026-04-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Fowey River Trading",
+        "lat": 50.3397303,
+        "lng": -4.6337529,
+        "category": "shops",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "19",
+          "addr:postcode": "PL23 1DF",
+          "addr:street": "Station Road",
+          "alcohol": "yes",
+          "alt_name": "Fowey River Trading Chandlery and Cafe",
+          "drink": "coffee;hot_chocolate",
+          "name": "Fowey River Trading",
+          "nautical": "yes",
+          "opening_hours": "Mo-Su 10:00-16:00",
+          "phone": "+44 1726 467901",
+          "shop": "convenience",
+          "website": "https://www.facebook.com/profile.php?id=100088251820210"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "High Tide",
+        "lat": 50.3360335,
+        "lng": -4.6343396,
+        "category": "shops",
+        "tags": {
+          "name": "High Tide",
+          "shop": "gift",
+          "survey:date": "2026-04-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Quay Bakery",
+        "lat": 50.3361257,
+        "lng": -4.6342153,
+        "category": "shops",
+        "tags": {
+          "fhrs:id": "456218",
+          "name": "Quay Bakery",
+          "payment:coins": "yes",
+          "payment:mastercard": "yes",
+          "payment:notes": "yes",
+          "payment:visa": "yes",
+          "payment:visa_debit": "yes",
+          "payment:visa_electron": "yes",
+          "shop": "bakery",
+          "survey:date": "2026-04-03",
+          "wikidata": "Q26437201"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Jo Downs",
+        "lat": 50.3362827,
+        "lng": -4.6340074,
+        "category": "shops",
+        "tags": {
+          "check_date": "2026-07-08",
+          "check_date:opening_hours": "2026-07-08",
+          "name": "Jo Downs",
+          "opening_hours": "Mo-Sa 10:00-17:00; Su 11:00-16:00",
+          "shop": "art"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Brocante",
+        "lat": 50.336414,
+        "lng": -4.6337897,
+        "category": "shops",
+        "tags": {
+          "name": "Brocante",
+          "opening_hours": "10:00-17:30",
+          "phone": "+44 1726 833390",
+          "shop": "gift",
+          "survey:date": "2026-04-03",
+          "website": "https://www.brocanteltd.co.uk"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Fowey River Gallery",
+        "lat": 50.3364562,
+        "lng": -4.6335561,
+        "category": "shops",
+        "tags": {
+          "name": "Fowey River Gallery",
+          "opening_hours": "10:00-17:00",
+          "phone": "+44 1726 833 828",
+          "shop": "art",
+          "survey:date": "2026-04-03",
+          "website": "https://www.foweyrivergallery.co.uk",
+          "wheelchair": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Casterbridge",
+        "lat": 50.3362059,
+        "lng": -4.6339534,
+        "category": "shops",
+        "tags": {
+          "name": "Casterbridge",
+          "opening_hours": "Mo-Sa 10:00-17:00; Su 10:30-16:00",
+          "shop": "gift",
+          "survey:date": "2026-04-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Bronte's Cornish Gifts",
+        "lat": 50.3360921,
+        "lng": -4.6341227,
+        "category": "shops",
+        "tags": {
+          "name": "Bronte's Cornish Gifts",
+          "shop": "gift",
+          "survey:date": "2026-04-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Roly's Fudge Pantry",
+        "lat": 50.3358778,
+        "lng": -4.634592,
+        "category": "shops",
+        "tags": {
+          "name": "Roly's Fudge Pantry",
+          "shop": "confectionery",
+          "survey:date": "2026-04-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Foweys Sweet Shop",
+        "lat": 50.3357158,
+        "lng": -4.6348177,
+        "category": "shops",
+        "tags": {
+          "name": "Foweys Sweet Shop",
+          "opening_hours": "Mo-Sa 10:00-16:00",
+          "shop": "confectionery",
+          "survey:date": "2026-04-03",
+          "website": "https://foweysweetshop.co.uk"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Flapjackery",
+        "lat": 50.3356873,
+        "lng": -4.6348559,
+        "category": "shops",
+        "tags": {
+          "name": "Flapjackery",
+          "opening_hours": "Mo-Sa 10:00-17:00; Su 10:00-16:00",
+          "shop": "confectionery",
+          "survey:date": "2026-04-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Tarquin's",
+        "lat": 50.3355122,
+        "lng": -4.6349006,
+        "category": "shops",
+        "tags": {
+          "name": "Tarquin's",
+          "opening_hours": "Mo-Sa 10:00-17:30; Su 10:00-17:00",
+          "shop": "alcohol",
+          "survey:date": "2026-04-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "RNLI shop",
+        "lat": 50.3386953,
+        "lng": -4.6323814,
+        "category": "shops",
+        "tags": {
+          "name": "RNLI shop",
+          "opening_hours": "Mo-Sa 10:00-16:00; Su 11:00-16:00",
+          "shop": "gift",
+          "survey:date": "2026-04-04",
+          "wheelchair": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Treasures of Fowey",
+        "lat": 50.3349876,
+        "lng": -4.6347593,
+        "category": "shops",
+        "tags": {
+          "name": "Treasures of Fowey",
+          "opening_hours": "10:00-17:00",
+          "phone": "+44 1726 834 486",
+          "shop": "gift",
+          "survey:date": "2026-04-05",
+          "wheelchair": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Liga",
+        "lat": 50.3349818,
+        "lng": -4.6350071,
+        "category": "shops",
+        "tags": {
+          "name": "Liga",
+          "opening_hours": "Mo-Sa 10:00-17:00; Su 11:00-16:00",
+          "shop": "gift",
+          "survey:date": "2026-04-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Molesworth & Bird",
+        "lat": 50.3349665,
+        "lng": -4.6354001,
+        "category": "shops",
+        "tags": {
+          "name": "Molesworth & Bird",
+          "shop": "art",
+          "survey:date": "2026-04-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Richard's",
+        "lat": 50.3351446,
+        "lng": -4.635287,
+        "category": "shops",
+        "tags": {
+          "name": "Richard's",
+          "shop": "convenience",
+          "survey:date": "2026-04-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Quay Arts Hub",
+        "lat": 50.3287853,
+        "lng": -4.6340862,
+        "category": "shops",
+        "tags": {
+          "name": "Quay Arts Hub",
+          "shop": "art",
+          "url": "http://www.quayartshub.co.uk"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Shipmates of Fowey",
+        "lat": 50.3347453,
+        "lng": -4.6361795,
+        "category": "shops",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "8",
+          "addr:postcode": "PL23 1HY",
+          "addr:street": "Esplanade",
+          "alcohol": "yes",
+          "building": "yes",
+          "farm": "yes",
+          "local_produce": "yes",
+          "name": "Shipmates of Fowey",
+          "opening_hours": "Mo-Su 10:00-19:00",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "phone": "+44 1726 832711",
+          "shop": "convenience",
+          "speciality": "alcohol",
+          "stroller": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "King of Prussia",
+        "lat": 50.3352933,
+        "lng": -4.634643,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:housenumber": "3",
+          "addr:postcode": "PL23 1AT",
+          "addr:street": "Town Quay",
+          "amenity": "pub",
+          "fhrs:id": "456192",
+          "indoor_seating": "yes",
+          "name": "King of Prussia",
+          "opening_hours:bar": "Mo-Sa 11:00-23:00; Su 12:00-23:00",
+          "outdoor_seating": "no",
+          "source:addr": "FHRS Open Data",
+          "tourism": "hotel",
+          "website": "https://www.thekingofprussiafowey.com",
+          "wikidata": "Q26578559"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Old Quay House Hotel",
+        "lat": 50.336028,
+        "lng": -4.6341282,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:country": "GB",
+          "addr:housenumber": "28",
+          "addr:postcode": "PL23 1AQ",
+          "addr:street": "Fore Street",
+          "check_date": "2025-07-01",
+          "fhrs:id": "1220185",
+          "food": "yes",
+          "name": "The Old Quay House Hotel",
+          "source:addr": "FHRS Open Data",
+          "tourism": "hotel",
+          "website": "https://theoldquayhouse.com/",
+          "wikidata": "Q26659692"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Galleon Inn",
+        "lat": 50.3356009,
+        "lng": -4.6347058,
+        "category": "stay",
+        "tags": {
+          "check_date:internet_access": "2026-04-03",
+          "internet_access": "wlan",
+          "name": "The Galleon Inn",
+          "phone": "+44 1726 833014",
+          "survey:date": "2026-04-03",
+          "tourism": "hotel",
+          "website": "https://galleon-inn.co.uk",
+          "wheelchair": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Fowey Hall Hotel",
+        "lat": 50.3343529,
+        "lng": -4.6410284,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:country": "GB",
+          "addr:housename": "Fowey Hall",
+          "addr:postcode": "PL23 1ET",
+          "addr:street": "Hanson Drive",
+          "building": "yes",
+          "fhrs:id": "402105",
+          "name": "Fowey Hall Hotel",
+          "source": "Bing",
+          "source:addr": "FHRS Open Data",
+          "tourism": "hotel",
+          "wikidata": "Q26609410"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Fowey Harbour Hotel",
+        "lat": 50.3330332,
+        "lng": -4.6392396,
+        "category": "stay",
+        "tags": {
+          "addr:postcode": "PL23 1HX",
+          "addr:street": "Esplanade",
+          "building": "yes",
+          "check_date": "2025-06-30",
+          "name": "Fowey Harbour Hotel",
+          "tourism": "hotel",
+          "url": "http://www.thefoweyhotel.co.uk/",
+          "wikidata": "Q111369184"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "parking": [
+      {
+        "name": "Quay Car Park",
+        "lat": 50.3292895,
+        "lng": -4.6347473,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "yes",
+          "name": "Quay Car Park",
+          "parking": "surface"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Polruan Car Park",
+        "lat": 50.3273789,
+        "lng": -4.6358832,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "alt_name": "St.Saviours Hill Car Park",
+          "amenity": "parking",
+          "fee": "yes",
+          "name": "Polruan Car Park",
+          "name:kw": "Park Kerri Porthruwon",
+          "parking": "surface"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3384106,
+        "lng": -4.6322698,
+        "category": "parking",
+        "tags": {
+          "access": "private",
+          "amenity": "parking",
+          "parking": "surface",
+          "source": "Bing"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Caffa Mill",
+        "lat": 50.340147,
+        "lng": -4.6341294,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "yes",
+          "name": "Caffa Mill",
+          "parking": "surface",
+          "source": "Bing"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Albert Quay Short Stay Car Park",
+        "lat": 50.3362184,
+        "lng": -4.633738,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "yes",
+          "maxstay": "2 hours",
+          "name": "Albert Quay Short Stay Car Park",
+          "orientation": "perpendicular",
+          "parking": "surface",
+          "source": "bing;local survey",
+          "supervised": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Main Car Park",
+        "lat": 50.3353005,
+        "lng": -4.6399427,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "yes",
+          "name": "Main Car Park",
+          "parking": "surface",
+          "source": "Bing"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3276764,
+        "lng": -4.6295221,
+        "category": "parking",
+        "tags": {
+          "amenity": "parking",
+          "parking": "surface"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3331471,
+        "lng": -4.639569,
+        "category": "parking",
+        "tags": {
+          "access": "private",
+          "amenity": "parking",
+          "parking": "street_side"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.335122,
+        "lng": -4.6343548,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "yes",
+          "note": "Closed during Summer season",
+          "parking": "surface",
+          "seasonal": "winter"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3352472,
+        "lng": -4.63445,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "yes",
+          "note": "Closed during summer season",
+          "parking": "surface",
+          "seasonal": "winter"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3360274,
+        "lng": -4.6374042,
+        "category": "parking",
+        "tags": {
+          "access": "customers",
+          "amenity": "parking",
+          "parking": "surface"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3401207,
+        "lng": -4.636556,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "yes",
+          "parking": "surface"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3416598,
+        "lng": -4.6298191,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "no",
+          "parking": "surface"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3417302,
+        "lng": -4.6297415,
+        "category": "parking",
+        "tags": {
+          "access": "private",
+          "amenity": "parking",
+          "parking": "surface"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ]
+  },
+  "attribution": "© OpenStreetMap contributors",
+  "generatedAt": "2026-09-13T14:33:07.439Z"
+}
