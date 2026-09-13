@@ -3081,41 +3081,6 @@
         "relatedPostImage": null
       },
       {
-        "name": "The Ship Inn",
-        "lat": 50.0831944,
-        "lng": -5.5393063,
-        "category": "pubs",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:country": "GB",
-          "addr:place": "Mousehole",
-          "addr:postcode": "TR19 6QX",
-          "addr:street": "South Cliff",
-          "amenity": "pub",
-          "building": "yes",
-          "building:levels": "2",
-          "email": "shipmousehole@staustellbrewery.co.uk",
-          "fhrs:id": "439105",
-          "food": "yes",
-          "guest_house": "bed_and_breakfast",
-          "internet_access": "wlan",
-          "internet_access:fee": "no",
-          "name": "The Ship Inn",
-          "opening_hours": "Mo-Su 11:00-23:00",
-          "opening_hours:kitchen": "Mo-Sa 12:00-14:30,17:00-21:00; Su 12:00-15:00,17:00-20:30",
-          "payment:cards": "yes",
-          "payment:contactless": "yes",
-          "phone": "+44 1736 731234",
-          "roof:levels": "1",
-          "roof:shape": "gabled",
-          "tourism": "guest_house",
-          "website": "https://shipinnmousehole.co.uk/",
-          "wikidata": "Q26579649"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
         "name": "Tolcarne Inn",
         "lat": 50.1068126,
         "lng": -5.5486807,
@@ -3202,6 +3167,631 @@
         "lat": 50.1218172,
         "lng": -5.533479,
         "category": "pubs",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:housename": "Longboat Hotel",
+          "addr:postcode": "TR18 2HZ",
+          "addr:street": "Market Jew Street",
+          "amenity": "pub",
+          "building": "yes",
+          "fhrs:id": "565550",
+          "name": "The Longboat Inn",
+          "opening_hours": "Mo-Su 07:00-23:00",
+          "source": "survey",
+          "toilets": "yes",
+          "tourism": "hotel",
+          "website": "https://www.longboatinn.co.uk/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "The Ship Inn",
+        "lat": 50.0831944,
+        "lng": -5.5393063,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:place": "Mousehole",
+          "addr:postcode": "TR19 6QX",
+          "addr:street": "South Cliff",
+          "amenity": "pub",
+          "building": "yes",
+          "building:levels": "2",
+          "email": "shipmousehole@staustellbrewery.co.uk",
+          "fhrs:id": "439105",
+          "food": "yes",
+          "guest_house": "bed_and_breakfast",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "The Ship Inn",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "opening_hours:kitchen": "Mo-Sa 12:00-14:30,17:00-21:00; Su 12:00-15:00,17:00-20:30",
+          "payment:cards": "yes",
+          "payment:contactless": "yes",
+          "phone": "+44 1736 731234",
+          "roof:levels": "1",
+          "roof:shape": "gabled",
+          "tourism": "guest_house",
+          "website": "https://shipinnmousehole.co.uk/",
+          "wikidata": "Q26579649"
+        },
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/the-ship-inn/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/The-Ship-Inn-1.jpg"
+      },
+      {
+        "name": "Rosario",
+        "lat": 50.1237019,
+        "lng": -5.4739873,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Marazion",
+          "addr:country": "GB",
+          "addr:housename": "Rosario",
+          "addr:postcode": "TR17 0BH",
+          "addr:street": "The Square",
+          "fhrs:id": "1850575",
+          "guest_house": "bed_and_breakfast",
+          "name": "Rosario",
+          "source:addr": "FHRS Open Data",
+          "tourism": "guest_house",
+          "url": "http://www.rosario-marazion.co.uk/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Queens Hotel",
+        "lat": 50.1139828,
+        "lng": -5.5379473,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:housename": "Queens Hotel",
+          "addr:place": "Promenade",
+          "addr:postcode": "TR18 4HG",
+          "check_date": "2024-05-21",
+          "name": "Queens Hotel",
+          "tourism": "hotel"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Lugger Inn",
+        "lat": 50.1146611,
+        "lng": -5.5362719,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:postcode": "TR18 4DL",
+          "alt_name": "The Lugger Hotel",
+          "fhrs:id": "510827",
+          "internet_access": "wlan",
+          "name": "The Lugger Inn",
+          "source:addr": "FHRS Open Data",
+          "toilets": "yes",
+          "toilets:access": "yes",
+          "tourism": "hotel"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Abbey Hotel",
+        "lat": 50.1175711,
+        "lng": -5.533952,
+        "category": "stay",
+        "tags": {
+          "name": "The Abbey Hotel",
+          "tourism": "hotel",
+          "wikidata": "Q26579423"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Marazion Hotel",
+        "lat": 50.123634,
+        "lng": -5.4732434,
+        "category": "stay",
+        "tags": {
+          "name": "Marazion Hotel",
+          "tourism": "hotel"
+        },
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/marazion-hotel/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/marazion_hotel.jpg"
+      },
+      {
+        "name": "Penrose Guest House",
+        "lat": 50.122866,
+        "lng": -5.5331402,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:housenumber": "8",
+          "addr:postcode": "TR18 2HQ",
+          "addr:street": "Penrose Terrace",
+          "name": "Penrose Guest House",
+          "tourism": "guest_house"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Blue Horizon Guest House",
+        "lat": 50.1241401,
+        "lng": -5.469143,
+        "category": "stay",
+        "tags": {
+          "name": "Blue Horizon Guest House",
+          "source": "survey",
+          "tourism": "guest_house"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Chiverton House",
+        "lat": 50.1139801,
+        "lng": -5.5415431,
+        "category": "stay",
+        "tags": {
+          "name": "Chiverton House",
+          "tourism": "guest_house",
+          "wikidata": "Q111888671"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Mount Royal - Penzance",
+        "lat": 50.1241735,
+        "lng": -5.5304046,
+        "category": "stay",
+        "tags": {
+          "addr:street": "Mount Royal Close",
+          "internet_access": "wlan",
+          "name": "Mount Royal - Penzance",
+          "phone": "+44 1736 362233",
+          "tourism": "guest_house",
+          "website": "http://www.mountroyalpenzance.com/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "St Michael's B&B",
+        "lat": 50.124198,
+        "lng": -5.4695785,
+        "category": "stay",
+        "tags": {
+          "name": "St Michael's B&B",
+          "tourism": "guest_house"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Shoreline bed and breakfast by the sea",
+        "lat": 50.1141748,
+        "lng": -5.5372076,
+        "category": "stay",
+        "tags": {
+          "addr:street": "Western Promenade Rd",
+          "name": "Shoreline bed and breakfast by the sea",
+          "name:en": "Shoreline bed and breakfast by the sea",
+          "tourism": "hotel"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Beachfield Hotel",
+        "lat": 50.1125781,
+        "lng": -5.5411322,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:postcode": "TR18 4NW",
+          "addr:street": "Western Promenade Road",
+          "contact:email": "reception@beachfield.co.uk",
+          "contact:phone": "+44 1736 362067",
+          "contact:website": "https://www.beachfield.co.uk/",
+          "fhrs:id": "573990",
+          "name": "Beachfield Hotel",
+          "tourism": "hotel"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Penmorvah",
+        "lat": 50.1131841,
+        "lng": -5.5415299,
+        "category": "stay",
+        "tags": {
+          "name": "Penmorvah",
+          "tourism": "guest_house"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Carnson House",
+        "lat": 50.1220897,
+        "lng": -5.5330499,
+        "category": "stay",
+        "tags": {
+          "check_date": "2026-04-24",
+          "name": "Carnson House",
+          "tourism": "guest_house"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Treventon Guest House",
+        "lat": 50.1137693,
+        "lng": -5.5425484,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:housename": "Treventon Guest House",
+          "addr:postcode": "TR18 4NE",
+          "addr:street": "Alexandra Place",
+          "check_date": "2026-08-14",
+          "guest_house": "guest_house",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "Treventon Guest House",
+          "operator": "Treventon",
+          "rooms": "6",
+          "tourism": "guest_house",
+          "website": "https://treventon.co.uk"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Morwenna’s Cottage",
+        "lat": 50.0808632,
+        "lng": -5.5388842,
+        "category": "stay",
+        "tags": {
+          "addr:housenumber": "22",
+          "addr:postcode": "TR19 6SG",
+          "addr:street": "Gurnick Street",
+          "name": "Morwenna’s Cottage",
+          "tourism": "guest_house"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Cliff Hotel",
+        "lat": 50.123208,
+        "lng": -5.5319848,
+        "category": "stay",
+        "tags": {
+          "name": "Cliff Hotel",
+          "tourism": "hotel"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Marazion",
+        "lat": 50.1243376,
+        "lng": -5.4688263,
+        "category": "stay",
+        "tags": {
+          "name": "Marazion",
+          "tourism": "guest_house"
+        },
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/marazion/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/Marazion-1-5.jpg"
+      },
+      {
+        "name": "ion",
+        "lat": 50.1243588,
+        "lng": -5.4688574,
+        "category": "stay",
+        "tags": {
+          "name": "ion",
+          "tourism": "guest_house"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Old Coastguard",
+        "lat": 50.0846754,
+        "lng": -5.5369387,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:place": "Mousehole",
+          "addr:postcode": "TR19 6PR",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "building": "yes",
+          "fhrs:id": "415155",
+          "name": "The Old Coastguard",
+          "restaurant": "yes",
+          "tourism": "hotel"
+        },
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/the-coastguard/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/Old-Coastguard-1.jpg"
+      },
+      {
+        "name": "Chapel House",
+        "lat": 50.1166806,
+        "lng": -5.5326832,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:housename": "Chapel House",
+          "addr:postcode": "TR18 4AQ",
+          "addr:street": "Chapel Street",
+          "building": "hotel",
+          "contact:email": "hello@chapelhousepz.co.uk",
+          "contact:facebook": "https://www.facebook.com/ChapelHousePZ",
+          "contact:phone": "+44 1736 362024",
+          "contact:website": "http://chapelhousepz.co.uk/",
+          "fhrs:id": "768392",
+          "internet_access": "yes",
+          "internet_access:fee": "customers",
+          "name": "Chapel House",
+          "rooms": "6",
+          "tourism": "hotel",
+          "wikidata": "Q26435937"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Stanley",
+        "lat": 50.1154295,
+        "lng": -5.5334366,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:housenumber": "23",
+          "addr:postcode": "TR18 4DW",
+          "addr:street": "Regent Terrace",
+          "building": "house",
+          "name": "The Stanley",
+          "source": "Bing",
+          "tourism": "guest_house",
+          "website": "https://www.thestanleypenzance.co.uk/",
+          "wikidata": "Q26578737"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Warwick House",
+        "lat": 50.115791,
+        "lng": -5.5336992,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:housenumber": "17",
+          "addr:postcode": "TR18 4DW",
+          "addr:street": "Regent Terrace",
+          "building": "house",
+          "name": "Warwick House",
+          "source": "Bing",
+          "tourism": "guest_house",
+          "website": "https://www.warwickhousepenzance.co.uk/",
+          "wikidata": "Q111369212"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Lombard House",
+        "lat": 50.1157992,
+        "lng": -5.53384,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:housenumber": "16",
+          "addr:postcode": "TR18 4DW",
+          "addr:street": "Regent Terrace",
+          "building": "house",
+          "name": "Lombard House",
+          "source": "Bing",
+          "tourism": "guest_house",
+          "website": "https://www.lombardhousehotel.co.uk/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Chy An Mor",
+        "lat": 50.1158071,
+        "lng": -5.5339753,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:housenumber": "15",
+          "addr:postcode": "TR18 4DW",
+          "addr:street": "Regent Terrace",
+          "building": "house",
+          "name": "Chy An Mor",
+          "source": "Bing",
+          "tourism": "guest_house",
+          "website": "https://www.chyanmor.co.uk/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Blue Seas",
+        "lat": 50.1158243,
+        "lng": -5.5342673,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:housenumber": "13",
+          "addr:postcode": "TR18 4DW",
+          "addr:street": "Regent Terrace",
+          "building": "house",
+          "name": "Blue Seas",
+          "source": "Bing",
+          "tourism": "guest_house",
+          "website": "https://www.blueseashotel-penzance.co.uk/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Camilla House",
+        "lat": 50.1158331,
+        "lng": -5.5344148,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:housenumber": "12",
+          "addr:postcode": "TR18 4DW",
+          "addr:street": "Regent Terrace",
+          "building": "house",
+          "name": "Camilla House",
+          "tourism": "guest_house",
+          "website": "https://www.camillahouse.co.uk/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Ship Inn",
+        "lat": 50.0831944,
+        "lng": -5.5393063,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:place": "Mousehole",
+          "addr:postcode": "TR19 6QX",
+          "addr:street": "South Cliff",
+          "amenity": "pub",
+          "building": "yes",
+          "building:levels": "2",
+          "email": "shipmousehole@staustellbrewery.co.uk",
+          "fhrs:id": "439105",
+          "food": "yes",
+          "guest_house": "bed_and_breakfast",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "The Ship Inn",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "opening_hours:kitchen": "Mo-Sa 12:00-14:30,17:00-21:00; Su 12:00-15:00,17:00-20:30",
+          "payment:cards": "yes",
+          "payment:contactless": "yes",
+          "phone": "+44 1736 731234",
+          "roof:levels": "1",
+          "roof:shape": "gabled",
+          "tourism": "guest_house",
+          "website": "https://shipinnmousehole.co.uk/",
+          "wikidata": "Q26579649"
+        },
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/the-ship-inn/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/The-Ship-Inn-1.jpg"
+      },
+      {
+        "name": "Premier Inn",
+        "lat": 50.1214481,
+        "lng": -5.5331066,
+        "category": "stay",
+        "tags": {
+          "brand": "Premier Inn",
+          "brand:wikidata": "Q2108626",
+          "brand:wikipedia": "en:Premier Inn",
+          "building": "yes",
+          "check_date": "2026-08-08",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "internet_access:operator": "Virgin Media",
+          "internet_access:ssid": "Premier Inn Free Wi-Fi",
+          "name": "Premier Inn",
+          "tourism": "hotel",
+          "website": "https://www.premierinn.com/gb/en/hotels/england/cornwall/penzance/penzance.html"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Mount View Hotel",
+        "lat": 50.1293626,
+        "lng": -5.4998456,
+        "category": "stay",
+        "tags": {
+          "amenity": "pub",
+          "building": "yes",
+          "name": "Mount View Hotel",
+          "outdoor_seating": "yes",
+          "rooms": "5",
+          "tourism": "hotel"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Chapel House Suites",
+        "lat": 50.1167789,
+        "lng": -5.5325756,
+        "category": "stay",
+        "tags": {
+          "building": "yes",
+          "contact:facebook": "https://www.facebook.com/ChapelHousePZ",
+          "email": "hello@chapelhousepz.co.uk",
+          "internet_access": "yes",
+          "internet_access:fee": "customers",
+          "name": "Chapel House Suites",
+          "phone": "+44 1736 362024",
+          "tourism": "apartment",
+          "website": "https://www.chapelhousepz.co.uk/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Hotel Penzance",
+        "lat": 50.1243259,
+        "lng": -5.5322512,
+        "category": "stay",
+        "tags": {
+          "addr:street": "Britons Hill",
+          "building": "yes",
+          "name": "Hotel Penzance",
+          "phone": "+441736363117",
+          "source": "microsoft/BuildingFootprints",
+          "tourism": "hotel",
+          "website": "https://www.hotelpenzance.com"
+        },
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/hotel-penzance/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/Hotel-Penzance-1.jpg"
+      },
+      {
+        "name": "The Longboat Inn",
+        "lat": 50.1218172,
+        "lng": -5.533479,
+        "category": "stay",
         "tags": {
           "addr:city": "Penzance",
           "addr:country": "GB",
@@ -5441,596 +6031,6 @@
         "relatedPostImage": null
       }
     ],
-    "stay": [
-      {
-        "name": "Rosario",
-        "lat": 50.1237019,
-        "lng": -5.4739873,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Marazion",
-          "addr:country": "GB",
-          "addr:housename": "Rosario",
-          "addr:postcode": "TR17 0BH",
-          "addr:street": "The Square",
-          "fhrs:id": "1850575",
-          "guest_house": "bed_and_breakfast",
-          "name": "Rosario",
-          "source:addr": "FHRS Open Data",
-          "tourism": "guest_house",
-          "url": "http://www.rosario-marazion.co.uk/"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Queens Hotel",
-        "lat": 50.1139828,
-        "lng": -5.5379473,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:country": "GB",
-          "addr:housename": "Queens Hotel",
-          "addr:place": "Promenade",
-          "addr:postcode": "TR18 4HG",
-          "check_date": "2024-05-21",
-          "name": "Queens Hotel",
-          "tourism": "hotel"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "The Lugger Inn",
-        "lat": 50.1146611,
-        "lng": -5.5362719,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:postcode": "TR18 4DL",
-          "alt_name": "The Lugger Hotel",
-          "fhrs:id": "510827",
-          "internet_access": "wlan",
-          "name": "The Lugger Inn",
-          "source:addr": "FHRS Open Data",
-          "toilets": "yes",
-          "toilets:access": "yes",
-          "tourism": "hotel"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "The Abbey Hotel",
-        "lat": 50.1175711,
-        "lng": -5.533952,
-        "category": "stay",
-        "tags": {
-          "name": "The Abbey Hotel",
-          "tourism": "hotel",
-          "wikidata": "Q26579423"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Marazion Hotel",
-        "lat": 50.123634,
-        "lng": -5.4732434,
-        "category": "stay",
-        "tags": {
-          "name": "Marazion Hotel",
-          "tourism": "hotel"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Penrose Guest House",
-        "lat": 50.122866,
-        "lng": -5.5331402,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:housenumber": "8",
-          "addr:postcode": "TR18 2HQ",
-          "addr:street": "Penrose Terrace",
-          "name": "Penrose Guest House",
-          "tourism": "guest_house"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Blue Horizon Guest House",
-        "lat": 50.1241401,
-        "lng": -5.469143,
-        "category": "stay",
-        "tags": {
-          "name": "Blue Horizon Guest House",
-          "source": "survey",
-          "tourism": "guest_house"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Chiverton House",
-        "lat": 50.1139801,
-        "lng": -5.5415431,
-        "category": "stay",
-        "tags": {
-          "name": "Chiverton House",
-          "tourism": "guest_house",
-          "wikidata": "Q111888671"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Mount Royal - Penzance",
-        "lat": 50.1241735,
-        "lng": -5.5304046,
-        "category": "stay",
-        "tags": {
-          "addr:street": "Mount Royal Close",
-          "internet_access": "wlan",
-          "name": "Mount Royal - Penzance",
-          "phone": "+44 1736 362233",
-          "tourism": "guest_house",
-          "website": "http://www.mountroyalpenzance.com/"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "St Michael's B&B",
-        "lat": 50.124198,
-        "lng": -5.4695785,
-        "category": "stay",
-        "tags": {
-          "name": "St Michael's B&B",
-          "tourism": "guest_house"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Shoreline bed and breakfast by the sea",
-        "lat": 50.1141748,
-        "lng": -5.5372076,
-        "category": "stay",
-        "tags": {
-          "addr:street": "Western Promenade Rd",
-          "name": "Shoreline bed and breakfast by the sea",
-          "name:en": "Shoreline bed and breakfast by the sea",
-          "tourism": "hotel"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Beachfield Hotel",
-        "lat": 50.1125781,
-        "lng": -5.5411322,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:country": "GB",
-          "addr:postcode": "TR18 4NW",
-          "addr:street": "Western Promenade Road",
-          "contact:email": "reception@beachfield.co.uk",
-          "contact:phone": "+44 1736 362067",
-          "contact:website": "https://www.beachfield.co.uk/",
-          "fhrs:id": "573990",
-          "name": "Beachfield Hotel",
-          "tourism": "hotel"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Penmorvah",
-        "lat": 50.1131841,
-        "lng": -5.5415299,
-        "category": "stay",
-        "tags": {
-          "name": "Penmorvah",
-          "tourism": "guest_house"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Carnson House",
-        "lat": 50.1220897,
-        "lng": -5.5330499,
-        "category": "stay",
-        "tags": {
-          "check_date": "2026-04-24",
-          "name": "Carnson House",
-          "tourism": "guest_house"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Treventon Guest House",
-        "lat": 50.1137693,
-        "lng": -5.5425484,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:housename": "Treventon Guest House",
-          "addr:postcode": "TR18 4NE",
-          "addr:street": "Alexandra Place",
-          "check_date": "2026-08-14",
-          "guest_house": "guest_house",
-          "internet_access": "yes",
-          "internet_access:fee": "no",
-          "name": "Treventon Guest House",
-          "operator": "Treventon",
-          "rooms": "6",
-          "tourism": "guest_house",
-          "website": "https://treventon.co.uk"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Morwenna’s Cottage",
-        "lat": 50.0808632,
-        "lng": -5.5388842,
-        "category": "stay",
-        "tags": {
-          "addr:housenumber": "22",
-          "addr:postcode": "TR19 6SG",
-          "addr:street": "Gurnick Street",
-          "name": "Morwenna’s Cottage",
-          "tourism": "guest_house"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Cliff Hotel",
-        "lat": 50.123208,
-        "lng": -5.5319848,
-        "category": "stay",
-        "tags": {
-          "name": "Cliff Hotel",
-          "tourism": "hotel"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Marazion",
-        "lat": 50.1243376,
-        "lng": -5.4688263,
-        "category": "stay",
-        "tags": {
-          "name": "Marazion",
-          "tourism": "guest_house"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "ion",
-        "lat": 50.1243588,
-        "lng": -5.4688574,
-        "category": "stay",
-        "tags": {
-          "name": "ion",
-          "tourism": "guest_house"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "The Old Coastguard",
-        "lat": 50.0846754,
-        "lng": -5.5369387,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:country": "GB",
-          "addr:place": "Mousehole",
-          "addr:postcode": "TR19 6PR",
-          "amenity": "restaurant",
-          "bar": "yes",
-          "building": "yes",
-          "fhrs:id": "415155",
-          "name": "The Old Coastguard",
-          "restaurant": "yes",
-          "tourism": "hotel"
-        },
-        "relatedPost": "https://www.bestincornwall.co.uk/listing/the-coastguard/",
-        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/Old-Coastguard-1.jpg"
-      },
-      {
-        "name": "Chapel House",
-        "lat": 50.1166806,
-        "lng": -5.5326832,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:housename": "Chapel House",
-          "addr:postcode": "TR18 4AQ",
-          "addr:street": "Chapel Street",
-          "building": "hotel",
-          "contact:email": "hello@chapelhousepz.co.uk",
-          "contact:facebook": "https://www.facebook.com/ChapelHousePZ",
-          "contact:phone": "+44 1736 362024",
-          "contact:website": "http://chapelhousepz.co.uk/",
-          "fhrs:id": "768392",
-          "internet_access": "yes",
-          "internet_access:fee": "customers",
-          "name": "Chapel House",
-          "rooms": "6",
-          "tourism": "hotel",
-          "wikidata": "Q26435937"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "The Stanley",
-        "lat": 50.1154295,
-        "lng": -5.5334366,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:country": "GB",
-          "addr:housenumber": "23",
-          "addr:postcode": "TR18 4DW",
-          "addr:street": "Regent Terrace",
-          "building": "house",
-          "name": "The Stanley",
-          "source": "Bing",
-          "tourism": "guest_house",
-          "website": "https://www.thestanleypenzance.co.uk/",
-          "wikidata": "Q26578737"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Warwick House",
-        "lat": 50.115791,
-        "lng": -5.5336992,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:country": "GB",
-          "addr:housenumber": "17",
-          "addr:postcode": "TR18 4DW",
-          "addr:street": "Regent Terrace",
-          "building": "house",
-          "name": "Warwick House",
-          "source": "Bing",
-          "tourism": "guest_house",
-          "website": "https://www.warwickhousepenzance.co.uk/",
-          "wikidata": "Q111369212"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Lombard House",
-        "lat": 50.1157992,
-        "lng": -5.53384,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:country": "GB",
-          "addr:housenumber": "16",
-          "addr:postcode": "TR18 4DW",
-          "addr:street": "Regent Terrace",
-          "building": "house",
-          "name": "Lombard House",
-          "source": "Bing",
-          "tourism": "guest_house",
-          "website": "https://www.lombardhousehotel.co.uk/"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Chy An Mor",
-        "lat": 50.1158071,
-        "lng": -5.5339753,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:country": "GB",
-          "addr:housenumber": "15",
-          "addr:postcode": "TR18 4DW",
-          "addr:street": "Regent Terrace",
-          "building": "house",
-          "name": "Chy An Mor",
-          "source": "Bing",
-          "tourism": "guest_house",
-          "website": "https://www.chyanmor.co.uk/"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Blue Seas",
-        "lat": 50.1158243,
-        "lng": -5.5342673,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:country": "GB",
-          "addr:housenumber": "13",
-          "addr:postcode": "TR18 4DW",
-          "addr:street": "Regent Terrace",
-          "building": "house",
-          "name": "Blue Seas",
-          "source": "Bing",
-          "tourism": "guest_house",
-          "website": "https://www.blueseashotel-penzance.co.uk/"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Camilla House",
-        "lat": 50.1158331,
-        "lng": -5.5344148,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:country": "GB",
-          "addr:housenumber": "12",
-          "addr:postcode": "TR18 4DW",
-          "addr:street": "Regent Terrace",
-          "building": "house",
-          "name": "Camilla House",
-          "tourism": "guest_house",
-          "website": "https://www.camillahouse.co.uk/"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "The Ship Inn",
-        "lat": 50.0831944,
-        "lng": -5.5393063,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:country": "GB",
-          "addr:place": "Mousehole",
-          "addr:postcode": "TR19 6QX",
-          "addr:street": "South Cliff",
-          "amenity": "pub",
-          "building": "yes",
-          "building:levels": "2",
-          "email": "shipmousehole@staustellbrewery.co.uk",
-          "fhrs:id": "439105",
-          "food": "yes",
-          "guest_house": "bed_and_breakfast",
-          "internet_access": "wlan",
-          "internet_access:fee": "no",
-          "name": "The Ship Inn",
-          "opening_hours": "Mo-Su 11:00-23:00",
-          "opening_hours:kitchen": "Mo-Sa 12:00-14:30,17:00-21:00; Su 12:00-15:00,17:00-20:30",
-          "payment:cards": "yes",
-          "payment:contactless": "yes",
-          "phone": "+44 1736 731234",
-          "roof:levels": "1",
-          "roof:shape": "gabled",
-          "tourism": "guest_house",
-          "website": "https://shipinnmousehole.co.uk/",
-          "wikidata": "Q26579649"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Premier Inn",
-        "lat": 50.1214481,
-        "lng": -5.5331066,
-        "category": "stay",
-        "tags": {
-          "brand": "Premier Inn",
-          "brand:wikidata": "Q2108626",
-          "brand:wikipedia": "en:Premier Inn",
-          "building": "yes",
-          "check_date": "2026-08-08",
-          "internet_access": "wlan",
-          "internet_access:fee": "customers",
-          "internet_access:operator": "Virgin Media",
-          "internet_access:ssid": "Premier Inn Free Wi-Fi",
-          "name": "Premier Inn",
-          "tourism": "hotel",
-          "website": "https://www.premierinn.com/gb/en/hotels/england/cornwall/penzance/penzance.html"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Mount View Hotel",
-        "lat": 50.1293626,
-        "lng": -5.4998456,
-        "category": "stay",
-        "tags": {
-          "amenity": "pub",
-          "building": "yes",
-          "name": "Mount View Hotel",
-          "outdoor_seating": "yes",
-          "rooms": "5",
-          "tourism": "hotel"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Chapel House Suites",
-        "lat": 50.1167789,
-        "lng": -5.5325756,
-        "category": "stay",
-        "tags": {
-          "building": "yes",
-          "contact:facebook": "https://www.facebook.com/ChapelHousePZ",
-          "email": "hello@chapelhousepz.co.uk",
-          "internet_access": "yes",
-          "internet_access:fee": "customers",
-          "name": "Chapel House Suites",
-          "phone": "+44 1736 362024",
-          "tourism": "apartment",
-          "website": "https://www.chapelhousepz.co.uk/"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Hotel Penzance",
-        "lat": 50.1243259,
-        "lng": -5.5322512,
-        "category": "stay",
-        "tags": {
-          "addr:street": "Britons Hill",
-          "building": "yes",
-          "name": "Hotel Penzance",
-          "phone": "+441736363117",
-          "source": "microsoft/BuildingFootprints",
-          "tourism": "hotel",
-          "website": "https://www.hotelpenzance.com"
-        },
-        "relatedPost": "https://www.bestincornwall.co.uk/listing/hotel-penzance/",
-        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/Hotel-Penzance-1.jpg"
-      },
-      {
-        "name": "The Longboat Inn",
-        "lat": 50.1218172,
-        "lng": -5.533479,
-        "category": "stay",
-        "tags": {
-          "addr:city": "Penzance",
-          "addr:country": "GB",
-          "addr:housename": "Longboat Hotel",
-          "addr:postcode": "TR18 2HZ",
-          "addr:street": "Market Jew Street",
-          "amenity": "pub",
-          "building": "yes",
-          "fhrs:id": "565550",
-          "name": "The Longboat Inn",
-          "opening_hours": "Mo-Su 07:00-23:00",
-          "source": "survey",
-          "toilets": "yes",
-          "tourism": "hotel",
-          "website": "https://www.longboatinn.co.uk/"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      }
-    ],
     "parking": [
       {
         "name": null,
@@ -6685,5 +6685,5 @@
     ]
   },
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-13T10:43:59.013Z"
+  "generatedAt": "2026-09-13T11:02:46.937Z"
 }
