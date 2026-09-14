@@ -1,0 +1,697 @@
+{
+  "beach": {
+    "id": 176873822,
+    "osmType": "way",
+    "name": "Summerleaze Beach",
+    "lat": 50.8309333,
+    "lng": -4.5526772
+  },
+  "pois": {
+    "toilets": [
+      {
+        "name": null,
+        "lat": 50.8317601,
+        "lng": -4.5512432,
+        "category": "toilets",
+        "tags": {
+          "amenity": "toilets",
+          "check_date": "2025-03-02",
+          "fee": "no",
+          "location": "In Life's a Beach, side entreance"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8308524,
+        "lng": -4.5500422,
+        "category": "toilets",
+        "tags": {
+          "access": "yes",
+          "amenity": "toilets",
+          "building": "yes",
+          "changing_table": "yes",
+          "fee": "no",
+          "female": "yes",
+          "wheelchair": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8308879,
+        "lng": -4.5499998,
+        "category": "toilets",
+        "tags": {
+          "access": "yes",
+          "amenity": "toilets",
+          "building": "yes",
+          "changing_table": "yes",
+          "fee": "no",
+          "male": "yes",
+          "wheelchair": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8308344,
+        "lng": -4.5499472,
+        "category": "toilets",
+        "tags": {
+          "amenity": "toilets",
+          "building": "yes",
+          "fee": "no",
+          "wheelchair": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "benches": [
+      {
+        "name": null,
+        "lat": 50.829456,
+        "lng": -4.5535029,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8330482,
+        "lng": -4.5534781,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "check_date": "2026-08-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8324803,
+        "lng": -4.5531602,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "check_date": "2026-08-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8296132,
+        "lng": -4.5520091,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-04-01"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8294628,
+        "lng": -4.5541189,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "check_date": "2026-08-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8329849,
+        "lng": -4.5535894,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8329869,
+        "lng": -4.5531676,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "check_date": "2026-08-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8328304,
+        "lng": -4.5532186,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.833143,
+        "lng": -4.5525818,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8326621,
+        "lng": -4.5524754,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8325416,
+        "lng": -4.5519738,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.832349,
+        "lng": -4.5510583,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8322277,
+        "lng": -4.5519205,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8322923,
+        "lng": -4.5515767,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8322066,
+        "lng": -4.5523361,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8328848,
+        "lng": -4.5521266,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "check_date": "2026-08-05",
+          "material": "wood"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8313449,
+        "lng": -4.5503922,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8297466,
+        "lng": -4.5552701,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.829461,
+        "lng": -4.5516267,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "check_date": "2026-08-05"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.830969,
+        "lng": -4.556133,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-04-01"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8297996,
+        "lng": -4.5549077,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-04-01"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8317737,
+        "lng": -4.5502734,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-04-01"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8314587,
+        "lng": -4.5496834,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-04-01"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8322433,
+        "lng": -4.5530488,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-04-01"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.829483,
+        "lng": -4.5521138,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-04-01"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8317048,
+        "lng": -4.5514989,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-11-25"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8316807,
+        "lng": -4.5514907,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-11-25"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8318968,
+        "lng": -4.5514978,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-11-25"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8326373,
+        "lng": -4.5532711,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-11-25"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8327809,
+        "lng": -4.5534581,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-11-25"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8321476,
+        "lng": -4.5506416,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8319566,
+        "lng": -4.55047,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8325714,
+        "lng": -4.5526326,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8323534,
+        "lng": -4.552594,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8328317,
+        "lng": -4.55286,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8329958,
+        "lng": -4.5526772,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8328803,
+        "lng": -4.5535236,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "cafes": [
+      {
+        "name": "Life's A Beach",
+        "lat": 50.8318018,
+        "lng": -4.551323,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Bude",
+          "addr:postcode": "EX23 8HN",
+          "addr:street": "Summerleaze Crescent",
+          "amenity": "restaurant",
+          "building": "retail",
+          "cuisine": "seafood;barbecue",
+          "fhrs:id": "482242",
+          "name": "Life's A Beach",
+          "outdoor_seating": "yes",
+          "source:addr": "FHRS Open Data"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "attractions": [
+      {
+        "name": null,
+        "lat": 50.8309698,
+        "lng": -4.5560478,
+        "category": "attractions",
+        "tags": {
+          "tourism": "viewpoint"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8298363,
+        "lng": -4.5517159,
+        "category": "attractions",
+        "tags": {
+          "leisure": "slipway",
+          "seamark:small_craft_facility:category": "slipway",
+          "seamark:type": "small_craft_facility"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8310629,
+        "lng": -4.5518963,
+        "category": "attractions",
+        "tags": {
+          "leisure": "slipway",
+          "seamark:small_craft_facility:category": "slipway",
+          "seamark:type": "small_craft_facility"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8297774,
+        "lng": -4.5530473,
+        "category": "attractions",
+        "tags": {
+          "leisure": "slipway",
+          "seamark:small_craft_facility:category": "slipway",
+          "seamark:type": "small_craft_facility"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.831578,
+        "lng": -4.5513407,
+        "category": "attractions",
+        "tags": {
+          "covered": "no",
+          "leisure": "picnic_table"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8315611,
+        "lng": -4.5513048,
+        "category": "attractions",
+        "tags": {
+          "covered": "no",
+          "leisure": "picnic_table"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Bude Sea Pool",
+        "lat": 50.832595,
+        "lng": -4.5540438,
+        "category": "attractions",
+        "tags": {
+          "access": "yes",
+          "leisure": "swimming_pool",
+          "lit": "no",
+          "location": "outdoor",
+          "name": "Bude Sea Pool",
+          "operator": "Friends of Bude Sea Pool",
+          "swimming_pool": "outdoor",
+          "wikidata": "Q4984989",
+          "wikipedia": "en:Bude Sea Pool"
+        },
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/bude-sea-pool/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/10/Sea-Pool-23.jpg"
+      },
+      {
+        "name": null,
+        "lat": 50.8293924,
+        "lng": -4.5522289,
+        "category": "attractions",
+        "tags": {
+          "highway": "service",
+          "leisure": "slipway",
+          "service": "slipway"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.8295189,
+        "lng": -4.5525912,
+        "category": "attractions",
+        "tags": {
+          "leisure": "slipway"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "shops": [
+      {
+        "name": "Bude RNLI Shop",
+        "lat": 50.8307297,
+        "lng": -4.5500736,
+        "category": "shops",
+        "tags": {
+          "name": "Bude RNLI Shop",
+          "opening_hours": "Mo-Su 10:00-16:00",
+          "shop": "gift",
+          "website": "https://rnli.org/find-my-nearest/shops/bude-rnli-shop"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ]
+  },
+  "attribution": "© OpenStreetMap contributors",
+  "generatedAt": "2026-09-14T21:25:37.963Z"
+}

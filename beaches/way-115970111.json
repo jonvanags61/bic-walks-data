@@ -1,0 +1,469 @@
+{
+  "beach": {
+    "id": 115970111,
+    "osmType": "way",
+    "name": "Gyllyngvase Beach",
+    "lat": 50.144156,
+    "lng": -5.0674316
+  },
+  "pois": {
+    "toilets": [
+      {
+        "name": "Gyllyngvase Beach",
+        "lat": 50.1448329,
+        "lng": -5.0685744,
+        "category": "toilets",
+        "tags": {
+          "amenity": "toilets",
+          "check_date": "2026-06-20",
+          "female": "yes",
+          "male": "yes",
+          "name": "Gyllyngvase Beach",
+          "wheelchair": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "benches": [
+      {
+        "name": null,
+        "lat": 50.1442607,
+        "lng": -5.0690357,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1444244,
+        "lng": -5.068909,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1444841,
+        "lng": -5.0688487,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1445323,
+        "lng": -5.0687984,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1445899,
+        "lng": -5.068742,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1453037,
+        "lng": -5.0659871,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2023-07-08"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1431369,
+        "lng": -5.0692869,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2023-07-08"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1455034,
+        "lng": -5.0650695,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-07-08"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1454477,
+        "lng": -5.0652549,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-07-08"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.145472,
+        "lng": -5.0651963,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-07-08"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1453854,
+        "lng": -5.0655248,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2023-07-08"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1453144,
+        "lng": -5.065801,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2023-07-08"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1453179,
+        "lng": -5.0658935,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2023-07-08"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1450485,
+        "lng": -5.0690225,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2025-10-25"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1450297,
+        "lng": -5.0690643,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2025-10-25"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1450177,
+        "lng": -5.0690928,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2025-10-25"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "cafes": [
+      {
+        "name": "Gylly Beach Cafe",
+        "lat": 50.1448283,
+        "lng": -5.0680058,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Falmouth",
+          "addr:housename": "Gyllyngvase Beach Cafe",
+          "addr:postcode": "TR11 4PA",
+          "addr:street": "Cliff Road",
+          "amenity": "restaurant",
+          "delivery": "no",
+          "diet:gluten_free": "yes",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes",
+          "fhrs:id": "528265",
+          "indoor_seating": "yes",
+          "name": "Gylly Beach Cafe",
+          "opening_hours": "Su-Th 09:00-21:00; Fr,Sa 09:00-22:00",
+          "outdoor_seating": "yes",
+          "website": "https://www.gyllybeach.com/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Gylly Beach Takeaway",
+        "lat": 50.144762,
+        "lng": -5.0683219,
+        "category": "cafes",
+        "tags": {
+          "amenity": "cafe",
+          "building": "yes",
+          "name": "Gylly Beach Takeaway",
+          "ref:GB:uprn": "10090526684",
+          "source": "survey",
+          "source:geometry": "Maxar"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Queen Mary Garden",
+        "lat": 50.1442462,
+        "lng": -5.0691186,
+        "category": "attractions",
+        "tags": {
+          "leisure": "garden",
+          "name": "Queen Mary Garden",
+          "wheelchair": "limited"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1446371,
+        "lng": -5.0707452,
+        "category": "attractions",
+        "tags": {
+          "leisure": "garden"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "shops": [
+      {
+        "name": "Co-op Food",
+        "lat": 50.1451957,
+        "lng": -5.068197,
+        "category": "shops",
+        "tags": {
+          "branch": "Cliff Road",
+          "brand": "Co-op Food",
+          "brand:wikidata": "Q3277439",
+          "check_date": "2024-07-15",
+          "check_date:opening_hours": "2024-07-15",
+          "name": "Co-op Food",
+          "opening_hours": "Mo-Su 07:00-23:00",
+          "operator": "The Co-operative Group",
+          "operator:wikidata": "Q117202",
+          "paypoint": "yes",
+          "shop": "convenience",
+          "website": "https://www.coop.co.uk/store-finder/TR11-4NP/cliff-road"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Bakery on the Beach",
+        "lat": 50.1447125,
+        "lng": -5.0684002,
+        "category": "shops",
+        "tags": {
+          "building": "yes",
+          "name": "Bakery on the Beach",
+          "ref:GB:uprn": "100041021962",
+          "shop": "bakery",
+          "source": "survey",
+          "source:geometry": "Maxar"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "The Rosemary",
+        "lat": 50.1461817,
+        "lng": -5.065984,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Falmouth",
+          "addr:housenumber": "22",
+          "addr:postcode": "TR11 4DL",
+          "addr:street": "Gyllyngvase Terrace",
+          "guest_house": "bed_and_breakfast",
+          "internet_access": "wlan",
+          "internet_access:fee": "yes",
+          "name": "The Rosemary",
+          "rooms": "10",
+          "tourism": "guest_house",
+          "website": "https://therosemary.co.uk"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "St Michael's Hotel & Spa",
+        "lat": 50.1460284,
+        "lng": -5.0691429,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Falmouth",
+          "addr:country": "GB",
+          "addr:housenumber": "7",
+          "addr:postcode": "TR11 4NB",
+          "addr:street": "Stracey Road",
+          "building": "yes",
+          "check_date": "2025-05-22",
+          "fhrs:id": "508130",
+          "name": "St Michael's Hotel & Spa",
+          "phone": "+44 1326 312707",
+          "ref:GB:uprn": "100041022240",
+          "rooms": "61",
+          "stars": "4",
+          "tourism": "hotel",
+          "website": "https://www.stmichaelshotel.co.uk/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "parking": [
+      {
+        "name": null,
+        "lat": 50.1450267,
+        "lng": -5.0698593,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "yes",
+          "operator": "Cornwall Council",
+          "operator:en": "Cornwall Council",
+          "operator:kw": "Konsel Kernow",
+          "operator:type": "government",
+          "operator:wikidata": "Q3774189",
+          "parking": "surface",
+          "surface": "asphalt"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1445468,
+        "lng": -5.0701842,
+        "category": "parking",
+        "tags": {
+          "amenity": "parking",
+          "fee": "yes",
+          "operator": "Cornwall Council",
+          "operator:en": "Cornwall Council",
+          "operator:kw": "Konsel Kernow",
+          "operator:type": "government",
+          "operator:wikidata": "Q3774189",
+          "parking": "surface",
+          "surface": "gravel"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1458424,
+        "lng": -5.0684863,
+        "category": "parking",
+        "tags": {
+          "access": "customers",
+          "amenity": "parking",
+          "parking": "surface"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.145283,
+        "lng": -5.0675454,
+        "category": "parking",
+        "tags": {
+          "amenity": "parking"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1452697,
+        "lng": -5.0672559,
+        "category": "parking",
+        "tags": {
+          "amenity": "parking"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ]
+  },
+  "attribution": "© OpenStreetMap contributors",
+  "generatedAt": "2026-09-14T21:25:36.251Z"
+}

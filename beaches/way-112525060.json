@@ -1,0 +1,829 @@
+{
+  "beach": {
+    "id": 112525060,
+    "osmType": "way",
+    "name": "Mousehole Beach",
+    "lat": 50.0828947,
+    "lng": -5.5384822
+  },
+  "pois": {
+    "toilets": [
+      {
+        "name": null,
+        "lat": 50.0817328,
+        "lng": -5.5389097,
+        "category": "toilets",
+        "tags": {
+          "amenity": "toilets",
+          "check_date": "2022-05-07",
+          "fee": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0836876,
+        "lng": -5.5376905,
+        "category": "toilets",
+        "tags": {
+          "amenity": "toilets",
+          "building": "yes",
+          "disabled": "no",
+          "fee": "no",
+          "wheelchair": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "benches": [
+      {
+        "name": null,
+        "lat": 50.082125,
+        "lng": -5.538102,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0822895,
+        "lng": -5.5379892,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0823393,
+        "lng": -5.5388278,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "operator": "Mousehole Harbour Authority"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0837387,
+        "lng": -5.5380535,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0840011,
+        "lng": -5.5371872,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0820842,
+        "lng": -5.5381414,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Rest and be Thankful",
+        "lat": 50.0825984,
+        "lng": -5.5408063,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "colour": "yellow",
+          "material": "wood",
+          "name": "Rest and be Thankful"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0822544,
+        "lng": -5.5380157,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0821723,
+        "lng": -5.5380729,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0820485,
+        "lng": -5.5381829,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.081978,
+        "lng": -5.5382799,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0819424,
+        "lng": -5.538323,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0825538,
+        "lng": -5.5390501,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "operator": "Mousehole Harbour Authority"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0825736,
+        "lng": -5.539097,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "colour": "grey",
+          "inscription": "Millenium 2000 In Memory of Jack Pender, A Man of Mousehole",
+          "material": "stone"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0823102,
+        "lng": -5.5388152,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "operator": "Mousehole Harbour Authority"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0822878,
+        "lng": -5.538791,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "operator": "Mousehole Harbour Authority"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0822603,
+        "lng": -5.5387736,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "operator": "Mousehole Harbour Authority"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0822414,
+        "lng": -5.5387495,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood",
+          "operator": "Mousehole Harbour Authority"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0820525,
+        "lng": -5.5387387,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0820378,
+        "lng": -5.5388044,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0838065,
+        "lng": -5.5379688,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0838119,
+        "lng": -5.5380175,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0838449,
+        "lng": -5.5379717,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0842245,
+        "lng": -5.5368202,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-05-07"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0839991,
+        "lng": -5.5370925,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "survey:date": "2022-05-07"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0812405,
+        "lng": -5.5388759,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-05-22"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Geoffrey Pappin 1947 - 2022",
+        "lat": 50.0815476,
+        "lng": -5.5390699,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "description": "Geoffrey Pappin 1947 - 2022, Harbour Commissioner/Sailor. A talented Mousehole man who made us smile",
+          "name": "Geoffrey Pappin 1947 - 2022"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "John Nicholls 1927 - 1997",
+        "lat": 50.0812637,
+        "lng": -5.5389886,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "description": "John Nicholls, 1927 - 1997, donated by his walking and rambling friends of Cornwall.",
+          "name": "John Nicholls 1927 - 1997"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0837965,
+        "lng": -5.5379229,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "description": "Edwin Madron (mousehole harbour master) and Dudley Penrose (Chairman Mousehole harbour commissioners)."
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "The Ship Inn",
+        "lat": 50.0831944,
+        "lng": -5.5393063,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:place": "Mousehole",
+          "addr:postcode": "TR19 6QX",
+          "addr:street": "South Cliff",
+          "amenity": "pub",
+          "building": "yes",
+          "building:levels": "2",
+          "email": "shipmousehole@staustellbrewery.co.uk",
+          "fhrs:id": "439105",
+          "food": "yes",
+          "guest_house": "bed_and_breakfast",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "The Ship Inn",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "opening_hours:kitchen": "Mo-Sa 12:00-14:30,17:00-21:00; Su 12:00-15:00,17:00-20:30",
+          "payment:cards": "yes",
+          "payment:contactless": "yes",
+          "phone": "+44 1736 731234",
+          "roof:levels": "1",
+          "roof:shape": "gabled",
+          "tourism": "guest_house",
+          "website": "https://shipinnmousehole.co.uk/",
+          "wikidata": "Q26579649"
+        },
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/the-ship-inn/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/The-Ship-Inn-1.jpg"
+      },
+      {
+        "name": "Morwenna\u2019s Cottage",
+        "lat": 50.0808632,
+        "lng": -5.5388842,
+        "category": "stay",
+        "tags": {
+          "addr:housenumber": "22",
+          "addr:postcode": "TR19 6SG",
+          "addr:street": "Gurnick Street",
+          "name": "Morwenna\u2019s Cottage",
+          "tourism": "guest_house"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Old Coastguard",
+        "lat": 50.0846754,
+        "lng": -5.5369387,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:place": "Mousehole",
+          "addr:postcode": "TR19 6PR",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "building": "yes",
+          "fhrs:id": "415155",
+          "name": "The Old Coastguard",
+          "restaurant": "yes",
+          "tourism": "hotel"
+        },
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/the-coastguard/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/Old-Coastguard-1.jpg"
+      },
+      {
+        "name": "The Ship Inn",
+        "lat": 50.0831944,
+        "lng": -5.5393063,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:place": "Mousehole",
+          "addr:postcode": "TR19 6QX",
+          "addr:street": "South Cliff",
+          "amenity": "pub",
+          "building": "yes",
+          "building:levels": "2",
+          "email": "shipmousehole@staustellbrewery.co.uk",
+          "fhrs:id": "439105",
+          "food": "yes",
+          "guest_house": "bed_and_breakfast",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "The Ship Inn",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "opening_hours:kitchen": "Mo-Sa 12:00-14:30,17:00-21:00; Su 12:00-15:00,17:00-20:30",
+          "payment:cards": "yes",
+          "payment:contactless": "yes",
+          "phone": "+44 1736 731234",
+          "roof:levels": "1",
+          "roof:shape": "gabled",
+          "tourism": "guest_house",
+          "website": "https://shipinnmousehole.co.uk/",
+          "wikidata": "Q26579649"
+        },
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/the-ship-inn/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/The-Ship-Inn-1.jpg"
+      }
+    ],
+    "cafes": [
+      {
+        "name": "No 2 Fore Street Restaurant",
+        "lat": 50.0834568,
+        "lng": -5.5392635,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Mousehole",
+          "addr:country": "GB",
+          "addr:housenumber": "2",
+          "addr:place": "Mousehole",
+          "addr:postcode": "TR19 6PF",
+          "addr:street": "Fore Street",
+          "amenity": "restaurant",
+          "check_date:opening_hours": "2025-06-12",
+          "fhrs:id": "402579",
+          "name": "No 2 Fore Street Restaurant",
+          "opening_hours:signed": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Four Teas Cafe",
+        "lat": 50.0827157,
+        "lng": -5.5397355,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Mousehole",
+          "addr:country": "GB",
+          "addr:housenumber": "3",
+          "addr:postcode": "TR19 6RP",
+          "addr:street": "Mill Lane",
+          "amenity": "cafe",
+          "fhrs:id": "1047342",
+          "name": "Four Teas Cafe",
+          "source:addr": "FHRS Open Data"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Jessie's Dairy",
+        "lat": 50.0835956,
+        "lng": -5.5394086,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Mousehole",
+          "addr:country": "GB",
+          "addr:housename": "Jessie's Dairy",
+          "addr:housenumber": "11",
+          "addr:place": "Mousehole",
+          "addr:postcode": "TR19 6TQ",
+          "addr:street": "Fore Street",
+          "amenity": "cafe",
+          "fhrs:id": "439132",
+          "name": "Jessie's Dairy",
+          "source:addr": "FHRS Open Data"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Old Coastguard",
+        "lat": 50.0846754,
+        "lng": -5.5369387,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:place": "Mousehole",
+          "addr:postcode": "TR19 6PR",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "building": "yes",
+          "fhrs:id": "415155",
+          "name": "The Old Coastguard",
+          "restaurant": "yes",
+          "tourism": "hotel"
+        },
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/the-coastguard/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/Old-Coastguard-1.jpg"
+      },
+      {
+        "name": "Orange Cafe Bar",
+        "lat": 50.0842306,
+        "lng": -5.5385129,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Mousehole;Penzance",
+          "addr:country": "GB",
+          "addr:postcode": "TR19 6PN",
+          "addr:street": "Parade Hill",
+          "amenity": "restaurant",
+          "building": "yes",
+          "cuisine": "plant-based",
+          "diet:vegan": "yes",
+          "fhrs:id": "439098",
+          "name": "Orange Cafe Bar",
+          "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-19:00",
+          "phone": "+44 1736 695492",
+          "source:addr": "FHRS Open Data"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "attractions": [
+      {
+        "name": null,
+        "lat": 50.0848856,
+        "lng": -5.5393411,
+        "category": "attractions",
+        "tags": {
+          "leisure": "playground"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0835274,
+        "lng": -5.5389766,
+        "category": "attractions",
+        "tags": {
+          "access": "yes",
+          "highway": "service",
+          "leisure": "slipway",
+          "service": "slipway",
+          "surface": "paved"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0820034,
+        "lng": -5.5385199,
+        "category": "attractions",
+        "tags": {
+          "highway": "service",
+          "leisure": "slipway",
+          "service": "slipway"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "shops": [
+      {
+        "name": "Hole Foods",
+        "lat": 50.0838212,
+        "lng": -5.5383441,
+        "category": "shops",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:hamlet": "Mousehole",
+          "addr:housename": "Harbour View Craft Centre",
+          "addr:postcode": "TR19 6PH",
+          "addr:street": "North Cliff",
+          "description": "Meat, fish and vegan dishes, accompanied by a wine list. They serve gluten-free choices, and will always try to adapt their dishes for dietary needs.",
+          "fhrs:id": "594588",
+          "name": "Hole Foods",
+          "opening_hours": "Mo-Su 05:00-21:00",
+          "phone": "+441736732843",
+          "shop": "convenience",
+          "source:addr": "FHRS Open Data",
+          "website": "https://mouseholedelikitchen.co.uk/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Ark",
+        "lat": 50.0814391,
+        "lng": -5.5396584,
+        "category": "shops",
+        "tags": {
+          "name": "The Ark",
+          "shop": "art"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Cat and Mouse",
+        "lat": 50.0834004,
+        "lng": -5.5391823,
+        "category": "shops",
+        "tags": {
+          "addr:street": "South Cliff",
+          "addr:town": "Mousehole",
+          "name": "Cat and Mouse",
+          "opening_hours": "Mo-Su 10:30-18:00+",
+          "shop": "gift"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Mousehole Farmers Market",
+        "lat": 50.0840927,
+        "lng": -5.5396228,
+        "category": "shops",
+        "tags": {
+          "addr:street": "Duck Street",
+          "description": "Local produce from local small businesses.",
+          "name": "Mousehole Farmers Market",
+          "opening_hours": "We 09:30-13:30",
+          "shop": "farm"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Mousehole",
+        "lat": 50.0838748,
+        "lng": -5.5380974,
+        "category": "shops",
+        "tags": {
+          "name": "The Mousehole",
+          "opening_hours": "Mo-Su 11:00-17:00",
+          "shop": "gift"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Just Lily",
+        "lat": 50.0837092,
+        "lng": -5.5388843,
+        "category": "shops",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:county": "Cornwall",
+          "addr:housenumber": "18",
+          "addr:postcode": "TR19 6PH",
+          "addr:street": "North Cliff",
+          "addr:village": "Mousehole",
+          "building": "yes",
+          "name": "Just Lily",
+          "opening_hours": "Winter: Mo-Su 10:00-17:00; Summer: Mo-Su 10:00-21:00",
+          "shop": "gift",
+          "website": "https://just-lily.co.uk/pages/porthlevan"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "parking": [
+      {
+        "name": null,
+        "lat": 50.0821344,
+        "lng": -5.5384069,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "yes",
+          "parking": "surface"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0838684,
+        "lng": -5.5373332,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "yes",
+          "parking": "surface"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.084237,
+        "lng": -5.5396876,
+        "category": "parking",
+        "tags": {
+          "amenity": "parking"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.0818566,
+        "lng": -5.5393894,
+        "category": "parking",
+        "tags": {
+          "access": "private",
+          "amenity": "parking",
+          "parking": "surface"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ]
+  },
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "generatedAt": "2026-09-14T21:25:51.231Z"
+}

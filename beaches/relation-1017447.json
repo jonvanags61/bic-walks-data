@@ -1,0 +1,12 @@
+{
+  "beach": {
+    "id": 1017447,
+    "osmType": "relation",
+    "name": "Fistral Beach",
+    "lat": 50.4182741,
+    "lng": -5.1023226
+  },
+  "pois": {},
+  "attribution": "© OpenStreetMap contributors",
+  "generatedAt": "2026-09-14T21:25:35.437Z"
+}

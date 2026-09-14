@@ -1,0 +1,471 @@
+{
+  "beach": {
+    "id": 777263840,
+    "osmType": "way",
+    "name": "Long Rock Beach",
+    "lat": 50.1224844,
+    "lng": -5.475172
+  },
+  "pois": {
+    "toilets": [
+      {
+        "name": "Marazion Square Toilets",
+        "lat": 50.1233494,
+        "lng": -5.4733493,
+        "category": "toilets",
+        "tags": {
+          "amenity": "toilets",
+          "check_date": "2022-07-09",
+          "fee": "no",
+          "female": "yes",
+          "male": "yes",
+          "name": "Marazion Square Toilets",
+          "wheelchair": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "benches": [
+      {
+        "name": null,
+        "lat": 50.1235589,
+        "lng": -5.4734978,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "check_date": "2025-06-27"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1233245,
+        "lng": -5.4742129,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1233116,
+        "lng": -5.4740855,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.123561,
+        "lng": -5.4734445,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "check_date": "2025-06-27"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1233136,
+        "lng": -5.4739902,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2022-07-09"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1231883,
+        "lng": -5.4735369,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1231799,
+        "lng": -5.4734152,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1231963,
+        "lng": -5.473453,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1232098,
+        "lng": -5.4734891,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "pubs": [
+      {
+        "name": "The Godolphin",
+        "lat": 50.1234214,
+        "lng": -5.474527,
+        "category": "pubs",
+        "tags": {
+          "addr:city": "Marazion",
+          "addr:country": "GB",
+          "addr:housename": "Godolphin Arms",
+          "addr:postcode": "TR17 0EN",
+          "addr:street": "West End",
+          "amenity": "pub",
+          "indoor_seating": "yes",
+          "name": "The Godolphin",
+          "outdoor_seating": "yes",
+          "wikidata": "Q26454074"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Cutty Sark",
+        "lat": 50.1236765,
+        "lng": -5.4733417,
+        "category": "pubs",
+        "tags": {
+          "amenity": "pub",
+          "indoor_seating": "yes",
+          "name": "Cutty Sark",
+          "outdoor_seating": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "The Kings Arms",
+        "lat": 50.1236626,
+        "lng": -5.4727303,
+        "category": "pubs",
+        "tags": {
+          "addr:city": "Marazion",
+          "addr:country": "GB",
+          "addr:housename": "The Kings Arms",
+          "addr:postcode": "TR17 0AP",
+          "addr:street": "The Square",
+          "amenity": "pub",
+          "building": "yes",
+          "check_date": "2025-06-27",
+          "fhrs:id": "402590",
+          "indoor_seating": "yes",
+          "name": "The Kings Arms",
+          "outdoor_seating": "yes",
+          "payment:cash": "yes",
+          "wikidata": "Q26436638"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "cafes": [
+      {
+        "name": "Chapel Rock Cafe",
+        "lat": 50.1237425,
+        "lng": -5.4748707,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Marazion",
+          "addr:country": "GB",
+          "addr:housename": "Chapel Rock",
+          "addr:place": "West End",
+          "addr:postcode": "TR17 0EJ",
+          "addr:street": "Kings Road",
+          "amenity": "cafe",
+          "check_date": "2025-06-27",
+          "fhrs:id": "667400",
+          "name": "Chapel Rock Cafe"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Ben's Conish Kitchen",
+        "lat": 50.1238636,
+        "lng": -5.4747645,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Marazion",
+          "addr:country": "GB",
+          "addr:housename": "Bens Cornish Kitchen",
+          "addr:postcode": "TR17 0EL",
+          "addr:street": "West End",
+          "amenity": "restaurant",
+          "fhrs:id": "502506",
+          "name": "Ben's Conish Kitchen"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "attractions": [
+      {
+        "name": null,
+        "lat": 50.1233709,
+        "lng": -5.4740252,
+        "category": "attractions",
+        "tags": {
+          "covered": "no",
+          "leisure": "picnic_table"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Marizion Museum",
+        "lat": 50.1236736,
+        "lng": -5.4725795,
+        "category": "attractions",
+        "tags": {
+          "fee": "no",
+          "name": "Marizion Museum",
+          "opening_hours": "Mo-Su 10:00-16:00",
+          "tourism": "museum"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1233602,
+        "lng": -5.4747487,
+        "category": "attractions",
+        "tags": {
+          "leisure": "outdoor_seating"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1235221,
+        "lng": -5.4746339,
+        "category": "attractions",
+        "tags": {
+          "leisure": "outdoor_seating"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "shops": [
+      {
+        "name": "Cobble Corner",
+        "lat": 50.1234618,
+        "lng": -5.4730005,
+        "category": "shops",
+        "tags": {
+          "name": "Cobble Corner",
+          "paypoint": "yes",
+          "shop": "convenience"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Market House Gallery",
+        "lat": 50.1237149,
+        "lng": -5.4724174,
+        "category": "shops",
+        "tags": {
+          "check_date": "2025-06-27",
+          "name": "Market House Gallery",
+          "shop": "art"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Philps Famous Pasties",
+        "lat": 50.1234679,
+        "lng": -5.4725452,
+        "category": "shops",
+        "tags": {
+          "addr:city": "Penzance",
+          "addr:country": "GB",
+          "addr:housenumber": "1",
+          "addr:place": "Marazion",
+          "addr:postcode": "TR17 0AR",
+          "addr:street": "Market Place",
+          "check_date": "2026-05-28",
+          "check_date:opening_hours": "2026-05-28",
+          "fhrs:id": "547121",
+          "indoor_seating": "no",
+          "name": "Philps Famous Pasties",
+          "opening_hours": "Mo-Sa 09:00-16:00; Su,PH 10:00-16:00",
+          "outdoor_seating": "no",
+          "shop": "bakery",
+          "takeaway": "only"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Morva",
+        "lat": 50.1234224,
+        "lng": -5.4729194,
+        "category": "shops",
+        "tags": {
+          "name": "Morva",
+          "shop": "gift"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Roly's Fudge Pantry",
+        "lat": 50.1233842,
+        "lng": -5.4727809,
+        "category": "shops",
+        "tags": {
+          "addr:city": "Marazion",
+          "addr:housename": "The Rigging",
+          "addr:postcode": "TR17 0AR",
+          "addr:street": "Market Place",
+          "fhrs:id": "1394004",
+          "name": "Roly's Fudge Pantry",
+          "shop": "confectionery",
+          "source:addr": "FHRS Open Data"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Keepsakes",
+        "lat": 50.1236009,
+        "lng": -5.4730769,
+        "category": "shops",
+        "tags": {
+          "name": "Keepsakes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "shop": "gift"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "Rosario",
+        "lat": 50.1237019,
+        "lng": -5.4739873,
+        "category": "stay",
+        "tags": {
+          "addr:city": "Marazion",
+          "addr:country": "GB",
+          "addr:housename": "Rosario",
+          "addr:postcode": "TR17 0BH",
+          "addr:street": "The Square",
+          "fhrs:id": "1850575",
+          "guest_house": "bed_and_breakfast",
+          "name": "Rosario",
+          "source:addr": "FHRS Open Data",
+          "tourism": "guest_house",
+          "url": "http://www.rosario-marazion.co.uk/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Marazion Hotel",
+        "lat": 50.123634,
+        "lng": -5.4732434,
+        "category": "stay",
+        "tags": {
+          "name": "Marazion Hotel",
+          "tourism": "hotel"
+        },
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/marazion-hotel/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/marazion_hotel.jpg"
+      }
+    ],
+    "parking": [
+      {
+        "name": null,
+        "lat": 50.1242608,
+        "lng": -5.4763465,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "yes",
+          "parking": "surface",
+          "source": "Bing"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1237905,
+        "lng": -5.4753986,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "yes",
+          "parking": "surface",
+          "source": "Bing"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.1239538,
+        "lng": -5.4731041,
+        "category": "parking",
+        "tags": {
+          "amenity": "parking",
+          "source": "Bing"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ]
+  },
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "generatedAt": "2026-09-14T21:25:48.814Z"
+}

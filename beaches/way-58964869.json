@@ -1,0 +1,274 @@
+{
+  "beach": {
+    "id": 58964869,
+    "osmType": "way",
+    "name": "Readymoney Cove Beach",
+    "lat": 50.3293746,
+    "lng": -4.6453659
+  },
+  "pois": {
+    "toilets": [
+      {
+        "name": null,
+        "lat": 50.3297328,
+        "lng": -4.6458281,
+        "category": "toilets",
+        "tags": {
+          "amenity": "toilets",
+          "building": "yes",
+          "fee": "no"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "benches": [
+      {
+        "name": null,
+        "lat": 50.3282398,
+        "lng": -4.6455464,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3284074,
+        "lng": -4.6457352,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3297428,
+        "lng": -4.6455681,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3296885,
+        "lng": -4.6456425,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3297026,
+        "lng": -4.6456237,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3297223,
+        "lng": -4.6455962,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "survey;gps"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3300428,
+        "lng": -4.6435032,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "material": "wood"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3299075,
+        "lng": -4.6458321,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "survey:date": "2024-11-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.330045,
+        "lng": -4.6435883,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.33001,
+        "lng": -4.6436416,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3300284,
+        "lng": -4.6436153,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3301004,
+        "lng": -4.6435065,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.330062,
+        "lng": -4.6435572,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.330083,
+        "lng": -4.6435272,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "cafes": [
+      {
+        "name": "Readymoney Beach Shop",
+        "lat": 50.3296953,
+        "lng": -4.645797,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "Fowey",
+          "addr:country": "GB",
+          "addr:housename": "Readymoney Beach Shop",
+          "addr:place": "Readymoney Cove",
+          "addr:postcode": "PL23 1JH",
+          "addr:street": "Readymoney Road",
+          "amenity": "cafe",
+          "check_date": "2026-07-28",
+          "check_date:opening_hours": "2026-07-27",
+          "cuisine": "coffee_shop",
+          "fhrs:id": "955724",
+          "indoor_seating": "no",
+          "name": "Readymoney Beach Shop",
+          "opening_hours": "Mo-Su 09:00-18:00",
+          "outdoor_seating": "no",
+          "smoking": "no",
+          "source:addr": "FHRS Open Data",
+          "takeaway": "only",
+          "website": "https://readymoneybeachshop.com"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "attractions": [
+      {
+        "name": null,
+        "lat": 50.3296516,
+        "lng": -4.6459107,
+        "category": "attractions",
+        "tags": {
+          "highway": "service",
+          "leisure": "slipway",
+          "service": "slipway"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3301299,
+        "lng": -4.6471294,
+        "category": "attractions",
+        "tags": {
+          "leisure": "pitch",
+          "sport": "tennis"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.3302258,
+        "lng": -4.6465949,
+        "category": "attractions",
+        "tags": {
+          "leisure": "garden"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ]
+  },
+  "attribution": "© OpenStreetMap contributors",
+  "generatedAt": "2026-09-14T21:25:38.747Z"
+}
