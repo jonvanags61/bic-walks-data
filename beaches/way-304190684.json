@@ -1,0 +1,563 @@
+{
+  "beach": {
+    "id": 304190684,
+    "osmType": "way",
+    "name": "Porthminster Beach",
+    "lat": 50.20906105809524,
+    "lng": -5.475918214285711
+  },
+  "pois": {
+    "toilets": [
+      {
+        "name": "Porthminster Toilets",
+        "lat": 50.2082439,
+        "lng": -5.4768854,
+        "category": "toilets",
+        "tags": {
+          "amenity": "toilets",
+          "check_date": "2023-05-22",
+          "fee": "no",
+          "female": "yes",
+          "male": "yes",
+          "name": "Porthminster Toilets",
+          "opening_hours": "Mo-Su 08:00-22:00",
+          "wheelchair": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "benches": [
+      {
+        "name": null,
+        "lat": 50.2072529,
+        "lng": -5.4745066,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "GPS survey"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2089498,
+        "lng": -5.477441,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "source": "GPS survey"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2107556,
+        "lng": -5.4780538,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2106775,
+        "lng": -5.4780002,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2106964,
+        "lng": -5.4779197,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2107694,
+        "lng": -5.4779841,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2094919,
+        "lng": -5.4777651,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2076174,
+        "lng": -5.4747275,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2074783,
+        "lng": -5.4744324,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2075951,
+        "lng": -5.4749742,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2084222,
+        "lng": -5.4774034,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2024-08-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2084511,
+        "lng": -5.4773519,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2024-08-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2105747,
+        "lng": -5.4774148,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2024-08-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2105427,
+        "lng": -5.4775431,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2024-08-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2099302,
+        "lng": -5.4777679,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2024-08-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2098252,
+        "lng": -5.4777665,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2024-08-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2095405,
+        "lng": -5.4777697,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "survey:date": "2024-08-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2091258,
+        "lng": -5.4775459,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2024-08-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2086034,
+        "lng": -5.4766898,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "survey:date": "2024-08-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2084137,
+        "lng": -5.4763522,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "no",
+          "survey:date": "2024-08-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2104998,
+        "lng": -5.4775131,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes",
+          "survey:date": "2024-08-03"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "cafes": [
+      {
+        "name": "St Ives Bay Ice Cream and Coffee House",
+        "lat": 50.2094455,
+        "lng": -5.4781369,
+        "category": "cafes",
+        "tags": {
+          "addr:city": "St Ives",
+          "addr:housename": "Station Buildings",
+          "addr:postcode": "TR26 2EQ",
+          "amenity": "cafe",
+          "building": "yes",
+          "building:colour": "white",
+          "building:material": "plaster",
+          "fhrs:id": "1724756",
+          "name": "St Ives Bay Ice Cream and Coffee House",
+          "source:addr": "FHRS Open Data"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Porthminster Cafe",
+        "lat": 50.2080288,
+        "lng": -5.4755885,
+        "category": "cafes",
+        "tags": {
+          "amenity": "restaurant",
+          "building": "yes",
+          "building:levels": "2",
+          "cuisine": "seafood",
+          "diet:vegetarian": "yes",
+          "fhrs:id": "447040",
+          "name": "Porthminster Cafe",
+          "phone": "+44 1736 795352",
+          "reservation": "recommended",
+          "roof:shape": "flat",
+          "website": "https://www.porthminstercafe.co.uk/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Pedn Olva",
+        "lat": 50.2107999,
+        "lng": -5.4774084,
+        "category": "cafes",
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "building": "yes",
+          "name": "Pedn Olva",
+          "tourism": "hotel",
+          "website": "https://www.pednolva.co.uk/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "attractions": [
+      {
+        "name": null,
+        "lat": 50.2107804,
+        "lng": -5.4778173,
+        "category": "attractions",
+        "tags": {
+          "tourism": "viewpoint"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Porthminster Mini Golf",
+        "lat": 50.2084676,
+        "lng": -5.476567,
+        "category": "attractions",
+        "tags": {
+          "holes": "18",
+          "leisure": "miniature_golf",
+          "name": "Porthminster Mini Golf",
+          "website": "https://www.porthminstercafe.co.uk/the-beach/info-weather/activities/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2080561,
+        "lng": -5.477477,
+        "category": "attractions",
+        "tags": {
+          "leisure": "pitch",
+          "sport": "tennis",
+          "surface": "rubber"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.208123,
+        "lng": -5.4773018,
+        "category": "attractions",
+        "tags": {
+          "leisure": "pitch",
+          "sport": "tennis",
+          "surface": "rubber"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2100669,
+        "lng": -5.4788172,
+        "category": "attractions",
+        "tags": {
+          "access": "private",
+          "leisure": "swimming_pool",
+          "swimming_pool": "personal"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2081413,
+        "lng": -5.4760928,
+        "category": "attractions",
+        "tags": {
+          "leisure": "outdoor_seating"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.209047,
+        "lng": -5.4771904,
+        "category": "attractions",
+        "tags": {
+          "leisure": "outdoor_seating",
+          "surface": "wood"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2080066,
+        "lng": -5.4761628,
+        "category": "attractions",
+        "tags": {
+          "leisure": "outdoor_seating",
+          "surface": "grass"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "shops": [
+      {
+        "name": "Beach Shop",
+        "lat": 50.208173,
+        "lng": -5.4758462,
+        "category": "shops",
+        "tags": {
+          "building": "retail",
+          "building:levels": "1",
+          "ice_cream": "yes",
+          "name": "Beach Shop",
+          "roof:shape": "gabled",
+          "shop": "convenience"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "St Ives Harbour Hotel",
+        "lat": 50.2078379,
+        "lng": -5.4781753,
+        "category": "stay",
+        "tags": {
+          "addr:city": "St Ives",
+          "addr:country": "GB",
+          "addr:housename": "St Ives Harbour Hotel",
+          "addr:postcode": "TR26 2BN",
+          "addr:street": "The Terrace",
+          "building": "hotel",
+          "fhrs:id": "505043",
+          "name": "St Ives Harbour Hotel",
+          "tourism": "hotel",
+          "wikidata": "Q111369208"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "St Ives Bay Hotel",
+        "lat": 50.2090084,
+        "lng": -5.4787004,
+        "category": "stay",
+        "tags": {
+          "addr:city": "St Ives",
+          "addr:country": "GB",
+          "addr:housename": "St Ives Bay Hotel",
+          "addr:postcode": "TR26 2BP",
+          "addr:street": "The Terrace",
+          "building": "hotel",
+          "fhrs:id": "1921996",
+          "name": "St Ives Bay Hotel",
+          "source:addr": "FHRS Open Data",
+          "tourism": "hotel"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": "Pedn Olva",
+        "lat": 50.2107999,
+        "lng": -5.4774084,
+        "category": "stay",
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "building": "yes",
+          "name": "Pedn Olva",
+          "tourism": "hotel",
+          "website": "https://www.pednolva.co.uk/"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ],
+    "parking": [
+      {
+        "name": "Station Long Stay Parking, St Ives",
+        "lat": 50.2096452,
+        "lng": -5.477666,
+        "category": "parking",
+        "tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "fee": "yes",
+          "name": "Station Long Stay Parking, St Ives",
+          "name:en": "Station Long Stay Parking, St Ives",
+          "parking": "surface"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2080052,
+        "lng": -5.4767431,
+        "category": "parking",
+        "tags": {
+          "access": "private",
+          "amenity": "parking",
+          "parking": "surface"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      }
+    ]
+  },
+  "attribution": "© OpenStreetMap contributors",
+  "generatedAt": "2026-09-14T19:52:34.123Z"
+}
