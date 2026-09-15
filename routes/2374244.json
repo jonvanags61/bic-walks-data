@@ -3440,8 +3440,8 @@
           "website": "https://outlaws.co.uk/restaurants/fish-kitchen/",
           "wikidata": "Q92731099"
         },
-        "relatedPost": null,
-        "relatedPostImage": null
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/outlaws-fish-kitchen/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/11/Outlaw-fish-kitchen.jpg"
       },
       {
         "name": "Fee's",
@@ -5013,6 +5013,7 @@
       }
     ]
   },
+  "beaches": [],
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-13T09:26:21.602Z"
+  "generatedAt": "2026-09-15T18:24:11.864Z"
 }

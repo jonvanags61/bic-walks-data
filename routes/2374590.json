@@ -6950,6 +6950,13 @@
       }
     ]
   },
+  "beaches": [
+    {
+      "title": "Porthminster Beach, St Ives",
+      "link": "https://www.bestincornwall.co.uk/beaches/porthminster-beach-st-ives/",
+      "relation": "passes-nearby"
+    }
+  ],
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-12T21:50:39.640Z"
+  "generatedAt": "2026-09-15T18:24:25.190Z"
 }

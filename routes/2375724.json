@@ -7478,6 +7478,13 @@
       }
     ]
   },
+  "beaches": [
+    {
+      "title": "Gyllyngvase Beach, Falmouth",
+      "link": "https://www.bestincornwall.co.uk/beaches/gyllyngvase-beach-falmouth/",
+      "relation": "passes-nearby"
+    }
+  ],
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-13T09:07:26.691Z"
+  "generatedAt": "2026-09-15T18:24:17.847Z"
 }

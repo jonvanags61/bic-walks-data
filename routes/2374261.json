@@ -4622,6 +4622,13 @@
       }
     ]
   },
+  "beaches": [
+    {
+      "title": "St George’s Cove, Padstow",
+      "link": "https://www.bestincornwall.co.uk/beaches/st-georges-cove-padstow/",
+      "relation": "passes-nearby"
+    }
+  ],
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-13T09:25:01.241Z"
+  "generatedAt": "2026-09-15T18:24:08.552Z"
 }

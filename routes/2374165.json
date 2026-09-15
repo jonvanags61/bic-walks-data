@@ -3245,6 +3245,13 @@
       }
     ]
   },
+  "beaches": [
+    {
+      "title": "Summerleaze Beach, Bude",
+      "link": "https://www.bestincornwall.co.uk/beaches/summerleaze-beach-bude/",
+      "relation": "passes-nearby"
+    }
+  ],
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-13T12:25:05.213Z"
+  "generatedAt": "2026-09-15T18:23:59.233Z"
 }

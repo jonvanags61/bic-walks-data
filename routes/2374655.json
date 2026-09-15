@@ -1321,8 +1321,8 @@
           "website": "https://www.harbourinnporthleven.co.uk/",
           "wikidata": "Q26503257"
         },
-        "relatedPost": null,
-        "relatedPostImage": null
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/harbour-inn/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/09/Harbour-Inn-1.jpg"
       },
       {
         "name": "Stones Reef",
@@ -1593,8 +1593,8 @@
           "seamark:building:function": "harbour_master",
           "seamark:type": "building"
         },
-        "relatedPost": null,
-        "relatedPostImage": null
+        "relatedPost": "https://www.bestincornwall.co.uk/listing/kota-kai/",
+        "relatedPostImage": "https://www.bestincornwall.co.uk/wp-content/uploads/2025/10/Kota-Kai-1.jpg"
       },
       {
         "name": "Sea Drift",
@@ -2452,6 +2452,7 @@
       }
     ]
   },
+  "beaches": [],
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-13T10:51:16.703Z"
+  "generatedAt": "2026-09-15T18:23:55.507Z"
 }

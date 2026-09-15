@@ -6684,6 +6684,23 @@
       }
     ]
   },
+  "beaches": [
+    {
+      "title": "Long Rock Beach, Marazion",
+      "link": "https://www.bestincornwall.co.uk/beaches/long-rock-beach-penzance/",
+      "relation": "passes-nearby"
+    },
+    {
+      "title": "Marazion Beach",
+      "link": "https://www.bestincornwall.co.uk/beaches/marazion-beach/",
+      "relation": "passes-nearby"
+    },
+    {
+      "title": "Mousehole Beach",
+      "link": "https://www.bestincornwall.co.uk/beaches/mousehole-beach/",
+      "relation": "passes-nearby"
+    }
+  ],
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-13T11:02:46.937Z"
+  "generatedAt": "2026-09-15T18:24:06.398Z"
 }
