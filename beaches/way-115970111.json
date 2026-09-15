@@ -464,6 +464,13 @@
       }
     ]
   },
+  "walks": [
+    {
+      "title": "Helford to Falmouth Walk",
+      "link": "https://www.bestincornwall.co.uk/walks/helford-to-falmouth-walk/",
+      "relation": "passes-nearby"
+    }
+  ],
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-14T21:25:36.251Z"
+  "generatedAt": "2026-09-15T18:13:56.295Z"
 }

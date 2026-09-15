@@ -466,6 +466,23 @@
       }
     ]
   },
+  "walks": [
+    {
+      "title": "Lamorna to Marazion via Mousehole Walk",
+      "link": "https://www.bestincornwall.co.uk/walks/lamorna-to-marazion-via-mousehole-walk/",
+      "relation": "passes-nearby"
+    },
+    {
+      "title": "Lamorna to Marazion Beach Walk",
+      "link": "https://www.bestincornwall.co.uk/walks/lamorna-to-marazion-beach-walk/",
+      "relation": "passes-nearby"
+    },
+    {
+      "title": "Lamorna to Marazion via Penzance Walk",
+      "link": "https://www.bestincornwall.co.uk/walks/lamorna-to-marazion-via-penzance-walk/",
+      "relation": "passes-nearby"
+    }
+  ],
   "attribution": "\u00a9 OpenStreetMap contributors",
-  "generatedAt": "2026-09-14T21:25:48.814Z"
+  "generatedAt": "2026-09-15T18:14:17.734Z"
 }

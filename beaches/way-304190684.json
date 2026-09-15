@@ -3,8 +3,8 @@
     "id": 304190684,
     "osmType": "way",
     "name": "Porthminster Beach",
-    "lat": 50.20906105809524,
-    "lng": -5.475918214285711
+    "lat": 50.2090638,
+    "lng": -5.4750961
   },
   "pois": {
     "toilets": [
@@ -56,50 +56,6 @@
       },
       {
         "name": null,
-        "lat": 50.2107556,
-        "lng": -5.4780538,
-        "category": "benches",
-        "tags": {
-          "amenity": "bench"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": null,
-        "lat": 50.2106775,
-        "lng": -5.4780002,
-        "category": "benches",
-        "tags": {
-          "amenity": "bench"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": null,
-        "lat": 50.2106964,
-        "lng": -5.4779197,
-        "category": "benches",
-        "tags": {
-          "amenity": "bench"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": null,
-        "lat": 50.2107694,
-        "lng": -5.4779841,
-        "category": "benches",
-        "tags": {
-          "amenity": "bench"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": null,
         "lat": 50.2094919,
         "lng": -5.4777651,
         "category": "benches",
@@ -138,6 +94,18 @@
         "name": null,
         "lat": 50.2075951,
         "lng": -5.4749742,
+        "category": "benches",
+        "tags": {
+          "amenity": "bench",
+          "backrest": "yes"
+        },
+        "relatedPost": null,
+        "relatedPostImage": null
+      },
+      {
+        "name": null,
+        "lat": 50.2071427,
+        "lng": -5.474077,
         "category": "benches",
         "tags": {
           "amenity": "bench",
@@ -331,36 +299,9 @@
         },
         "relatedPost": null,
         "relatedPostImage": null
-      },
-      {
-        "name": "Pedn Olva",
-        "lat": 50.2107999,
-        "lng": -5.4774084,
-        "category": "cafes",
-        "tags": {
-          "air_conditioning": "yes",
-          "amenity": "restaurant",
-          "building": "yes",
-          "name": "Pedn Olva",
-          "tourism": "hotel",
-          "website": "https://www.pednolva.co.uk/"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
       }
     ],
     "attractions": [
-      {
-        "name": null,
-        "lat": 50.2107804,
-        "lng": -5.4778173,
-        "category": "attractions",
-        "tags": {
-          "tourism": "viewpoint"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
       {
         "name": "Porthminster Mini Golf",
         "lat": 50.2084676,
@@ -397,19 +338,6 @@
           "leisure": "pitch",
           "sport": "tennis",
           "surface": "rubber"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": null,
-        "lat": 50.2100669,
-        "lng": -5.4788172,
-        "category": "attractions",
-        "tags": {
-          "access": "private",
-          "leisure": "swimming_pool",
-          "swimming_pool": "personal"
         },
         "relatedPost": null,
         "relatedPostImage": null
@@ -468,64 +396,6 @@
         "relatedPostImage": null
       }
     ],
-    "stay": [
-      {
-        "name": "St Ives Harbour Hotel",
-        "lat": 50.2078379,
-        "lng": -5.4781753,
-        "category": "stay",
-        "tags": {
-          "addr:city": "St Ives",
-          "addr:country": "GB",
-          "addr:housename": "St Ives Harbour Hotel",
-          "addr:postcode": "TR26 2BN",
-          "addr:street": "The Terrace",
-          "building": "hotel",
-          "fhrs:id": "505043",
-          "name": "St Ives Harbour Hotel",
-          "tourism": "hotel",
-          "wikidata": "Q111369208"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "St Ives Bay Hotel",
-        "lat": 50.2090084,
-        "lng": -5.4787004,
-        "category": "stay",
-        "tags": {
-          "addr:city": "St Ives",
-          "addr:country": "GB",
-          "addr:housename": "St Ives Bay Hotel",
-          "addr:postcode": "TR26 2BP",
-          "addr:street": "The Terrace",
-          "building": "hotel",
-          "fhrs:id": "1921996",
-          "name": "St Ives Bay Hotel",
-          "source:addr": "FHRS Open Data",
-          "tourism": "hotel"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      },
-      {
-        "name": "Pedn Olva",
-        "lat": 50.2107999,
-        "lng": -5.4774084,
-        "category": "stay",
-        "tags": {
-          "air_conditioning": "yes",
-          "amenity": "restaurant",
-          "building": "yes",
-          "name": "Pedn Olva",
-          "tourism": "hotel",
-          "website": "https://www.pednolva.co.uk/"
-        },
-        "relatedPost": null,
-        "relatedPostImage": null
-      }
-    ],
     "parking": [
       {
         "name": "Station Long Stay Parking, St Ives",
@@ -558,6 +428,13 @@
       }
     ]
   },
+  "walks": [
+    {
+      "title": "Hayle to St Ives Walk",
+      "link": "https://www.bestincornwall.co.uk/walks/hayle-to-st-ives-walk/",
+      "relation": "passes-nearby"
+    }
+  ],
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-14T19:52:34.123Z"
+  "generatedAt": "2026-09-15T18:13:43.538Z"
 }

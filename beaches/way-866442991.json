@@ -7,6 +7,13 @@
     "lng": -4.9384746
   },
   "pois": {},
+  "walks": [
+    {
+      "title": "Padstow to Porthcothan Walk",
+      "link": "https://www.bestincornwall.co.uk/walks/padstow-to-porthcothan-walks/",
+      "relation": "passes-nearby"
+    }
+  ],
   "attribution": "\u00a9 OpenStreetMap contributors",
-  "generatedAt": "2026-09-14T21:25:47.214Z"
+  "generatedAt": "2026-09-15T18:14:14.236Z"
 }

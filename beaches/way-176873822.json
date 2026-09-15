@@ -692,6 +692,18 @@
       }
     ]
   },
+  "walks": [
+    {
+      "title": "Bude to Crackington Haven Walk",
+      "link": "https://www.bestincornwall.co.uk/walks/bude-to-crackington-haven-walk/",
+      "relation": "passes-nearby"
+    },
+    {
+      "title": "Hartland Quay to Bude Walk",
+      "link": "https://www.bestincornwall.co.uk/walks/hartland-quay-to-bude-walk/",
+      "relation": "passes-nearby"
+    }
+  ],
   "attribution": "© OpenStreetMap contributors",
-  "generatedAt": "2026-09-14T21:25:37.963Z"
+  "generatedAt": "2026-09-15T18:14:00.928Z"
 }
